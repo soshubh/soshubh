@@ -1,4 +1,4 @@
-# [![SO SHUBH header](1634617602365.jpg](https://soshubh.xyz)
+# [![SO SHUBH header][https://github.com/soshubh/soshubh/blob/main/1634617602365.jpg](https://soshubh.xyz)
 
 <p>
   <a href="https://waylonwalker.com/latest-story.png"><img width="150" align='right' src="https://waylonwalker.com/latest-story.png"></a>
