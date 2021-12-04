@@ -1,5 +1,4 @@
-<p align='center'><h1>Hey, People👋!</h1></p>
-
+<h1 align="center">Hi 👋, I'm Shubh</h1>
 
 # [![Shubhanshu Singh header](https://raw.githubusercontent.com/soshubh/soshubh/icon/1634617602365.jpg)](http://soshubh.xyz/)
 
