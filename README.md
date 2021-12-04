@@ -4,7 +4,7 @@
 # [![Shubhanshu Singh header](https://raw.githubusercontent.com/soshubh/soshubh/icon/1634617602365.jpg)](http://soshubh.xyz/)
 
 <p align='center'>
-  <a href="https://soshubh.com/1634617602365.jpg"><img width="150" align='right' src="https://soshubh.com/1634617602365.jpg"></a>
+  <a href="https://raw.githubusercontent.com/soshubh/soshubh/icon/1634617602365.jpg"><img width="150" align='right' src="https://raw.githubusercontent.com/soshubh/soshubh/icon/1634617602365.jpg"></a>
 </p>
 
 
