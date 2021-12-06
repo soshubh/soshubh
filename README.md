@@ -5,7 +5,7 @@
 <h1S>So i am trying to make good README</h1>
 <h3>I hope i can make it soon</h3>
 
-h2> Hi, I'm Thai Braga! <img src="" width="50"></h2>
+
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>Software Enginner at <a href="
 
