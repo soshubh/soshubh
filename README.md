@@ -6,6 +6,6 @@
 <h3>I hope i can make it soon</h3>
 
 
-<img align='right' src="https://giphy.com/gifs/qASlfAGPVUpER8kVbP/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/qASlfAGPVUpER8kVbP/giphy.gif" width="230">
 <p><em>Software Enginner at <a href="">Dream</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="">No where</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
