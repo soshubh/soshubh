@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shubh<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 
-//# [![Shubhanshu Singh header](https://media.discordapp.net/attachments/878183252379193345/917474790980354078/GLITCH_20211002002038.mp4)](http://soshubh.xyz/)
+//# [![Shubhanshu Singh header](icon/1634617602365.jpg)](http://soshubh.xyz/)
 
 <h1S>So i am trying to make good README</h1>
 <h3>I hope i can make it soon</h3>
