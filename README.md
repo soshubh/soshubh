@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shubh<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 
 <!--  [![Shubhanshu Singh header](icon/bshhbs.jpg)](http://soshubh.xyz/) -->
-<img height="300" src="https://media.giphy.com/media/HvF4iYme3S5LVBpkbv/giphy-downsized.gif" width="1000"><br>
+<img height="300" src="https://media.giphy.com/media/HvF4iYme3S5LVBpkbv/giphy-downsized.gif" width="500"><br>
 <h1S>So i am trying to make good README</h1>
 <h3>I hope i can make it soon</h3>
 
