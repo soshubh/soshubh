@@ -12,3 +12,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soshubh&&theme=algolia&layout=compact)](https://github.com/soshubh/github-readme-stats)
 
 ![soshubh's github stats](https://github-readme-stats.vercel.app/api?username=soshubh&count_private=true&theme=react&show_icons=true)
+https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=swift
