@@ -9,3 +9,6 @@
 <!-- <img align='right' src="https://media.giphy.com/media/HvF4iYme3S5LVBpkbv/giphy-downsized.gif" width="230" > -->
 <p><em>Software Enginner at <a href="">Dream</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="">No where</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soshubh&&theme=algolia&layout=compact)](https://github.com/soshubh/github-readme-stats)
+
+![Shashi's github stats](https://github-readme-stats.vercel.app/api?username=soshubh&count_private=true&theme=react&show_icons=true)
