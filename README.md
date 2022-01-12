@@ -20,7 +20,7 @@ const shubh = {
                         post: "President",
                         website: "https://www.scanitjsr.org"
                       },
- ain: "spread racism"
+ aim: "spread racism"
 }
 ```
 
