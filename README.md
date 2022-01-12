@@ -16,17 +16,16 @@
 ![soshubh's github stats](https://github-readme-stats.vercel.app/api/pin/?username=soshubh&repo=CodeForces&cache_seconds=86400&theme=highcontrast)
 ![soshubh's github stats](https://github-readme-stats.vercel.app/api/pin/?username=soshubh&repo=telebot&cache_seconds=86400&theme=highcontrast)
 ```javascript
-const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
+const shubh = {
+  pronouns: "he",
+  code: [Javascript, HTML, CSS, C, C++, Python],
+  tools: [React, Node, VS Code, Figma],
   techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
+                        organization: "Society Of Computer Applications",
+                        post: "President",
+                        website: "https://www.scanitjsr.org"
                       },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+ ain: "spread racism"
 }
 ```
 
