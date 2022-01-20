@@ -25,7 +25,7 @@ const shubh = {
 ```
 
 ![soshubh's github stats](https://github-readme-stats.vercel.app/api?username=soshubh&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=swift)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soshubh&layout=compact)](https://github.com/soshubh/github-readme-stats)
 ![soshubh's github stats](https://github-readme-stats.vercel.app/api/pin/?username=soshubh&repo=shubh&cache_seconds=86400&theme=highcontrast)
 ![soshubh's github stats](https://github-readme-stats.vercel.app/api/pin/?username=soshubh&repo=Ist-sem-assignment&cache_seconds=86400&theme=highcontrast)
 ![soshubh's github stats](https://github-readme-stats.vercel.app/api/pin/?username=soshubh&repo=CodeForces&cache_seconds=86400&theme=highcontrast)
