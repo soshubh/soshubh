@@ -15,8 +15,8 @@
 <h3 align="center">Work On Development</h3>
 
 - 🌐 Web Development 
-   <a href="http://soshubh.xyz">SHUBH SINGH</a><br>
-     
+   <br><a href="http://soshubh.xyz">SHUBH SINGH</a>
+   <br><a href="https://how-to-not-do-nimct.glitch.me">HTNDNIMCET</a>
 - 🤖 Bot Development
  
   nitjsrbot<br>
