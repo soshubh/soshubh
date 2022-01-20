@@ -25,6 +25,7 @@
   <br><a href="http://t.me/so_shubh_bot">SHUBH SINGH</a>
   <br><a href="https://discord.com/oauth2/authorize?client_id=920213432739967008&permissions=70282305&scope=bot">Noob Coders </a>
   <br>
+  <h3 align="center">Social & Hobbies</h3><hr><br>
   
  [![Linkedin: Shubhanshu](https://img.shields.io/badge/-Shubhanshu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shubhanshu-singh-b552511b7/)](https://www.linkedin.com/in/shubhanshu-singh-b552511b7) 
  [![Facebook: Shubhanshu](https://img.shields.io/badge/-Shubhanshu-sky?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/soshubhsingh/)](https://www.facebook.com/soshubhsingh)
