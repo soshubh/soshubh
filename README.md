@@ -13,9 +13,14 @@
 - 📫 For contact [Click here](http://soshubh.xyz/#contact).
 
 <h3 align="center">Work On Development</h3><br>
-![soshubh's GitHub stats](https://github-readme-stats.vercel.app/api?username=soshubh&show_icons=true&theme=swift)<br></em>
-![soshubh's github stats](https://github-readme-stats.vercel.app/api/pin/?username=soshubh&repo=shubh&cache_seconds=86400&theme=swift)<br>
-![soshubh's github stats](https://github-readme-stats.vercel.app/api/pin/?username=soshubh&repo=telebot&cache_seconds=86400&theme=swift)
+<b> - Web Development<b><br>
+ soshubh.xyz<br>
+ shubhanshusingh.live<br>
+ howtonotdonitmcet.glitch.me<br>
+ <b> - Bot Development<b><br>
+  nitjsrbot<br>
+  so_shubh_bot<br>
+  noob coder<br>
 
  <p><em>Software Enginner at <a href="">Dream</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="">No where</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
