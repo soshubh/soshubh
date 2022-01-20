@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shubh<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 
 <!--  [![Shubhanshu Singh header](icon/bshhbs.jpg)](http://soshubh.xyz/) -->
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><img src="https://giphy.com/embed/26tPnAAJxXTvpLwJy" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/hacker-hackers-hackerman-26tPnAAJxXTvpLwJy">via GIPHY</a></p><br>
+<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><img src="https://giphy.com/embed/26tPnAAJxXTvpLwJy" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></div><p><a href="https://giphy.com/gifs/hacker-hackers-hackerman-26tPnAAJxXTvpLwJy">via GIPHY</a></p><br>
 <h1S>So i am trying to make good README</h1>
 <h3>I hope i can make it soon</h3>
 
