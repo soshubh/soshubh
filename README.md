@@ -10,14 +10,14 @@
 
 - 👨‍💻 I did some project you can check [here](http://soshubh.xyz/#work).
 
-- 📫 For contact [Click here](http://soshubh.xyz/#contact).
+- 📫 For contact [click here](http://soshubh.xyz/#contact).
 
 <h3 align="center">Work On Development</h3><br>
-- b> Web Development<b><br>
+**- 🌐 Web Development**<br>
  soshubh.xyz<br>
  shubhanshusingh.live<br>
  howtonotdonitmcet.glitch.me<br>
-- <b> Bot Development<b><br>
+**- 🤖 Bot Development**<br>
   nitjsrbot<br>
   so_shubh_bot<br>
   noob coder<br>
