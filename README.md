@@ -14,14 +14,10 @@
 
 <h3 align="center">Work On Development</h3>
 
-- 🌐 Web Development
-
- Visit https://soshubh.xyz
-soshubh.xyz<br>
- shubhanshusingh.live<br>
- howtonotdonitmcet.glitch.me
- 
- - 🤖 Bot Development
+- 🌐 Web Development 
+   <a href="http://soshubh.xyz">SHUBH SINGH</a><br>
+     
+- 🤖 Bot Development
  
   nitjsrbot<br>
   so_shubh_bot<br>
