@@ -27,6 +27,7 @@
   <br>
   
  [![Linkedin: Shubhanshu](https://img.shields.io/badge/-Shubhanshu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/shubhanshu-singh-b552511b7) 
+ [![GitHub: Shubhanshu](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/soshubh)
  <p><em>Software Enginner at <a href="">Dream</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="">No where</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
