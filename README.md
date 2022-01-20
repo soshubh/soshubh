@@ -12,12 +12,16 @@
 
 - 📫 For contact [click here](http://soshubh.xyz/#contact).
 
-<h3 align="center">Work On Development</h3><br>
+<h3 align="center">Work On Development</h3>
+
 - 🌐 Web Development
+
  soshubh.xyz<br>
  shubhanshusingh.live<br>
- howtonotdonitmcet.glitch.me<br>
+ howtonotdonitmcet.glitch.me
+ 
  - 🤖 Bot Development
+ 
   nitjsrbot<br>
   so_shubh_bot<br>
   noob coder<br>
