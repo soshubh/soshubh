@@ -16,7 +16,7 @@
 ![soshubh's github stats](https://github-readme-stats.vercel.app/api/pin/?username=soshubh&repo=shubh&cache_seconds=86400&theme=swift)
 ![soshubh's github stats](https://github-readme-stats.vercel.app/api/pin/?username=soshubh&repo=telebot&cache_seconds=86400&theme=swift)
 
-<p><em>Software Enginner at <a href="">Dream</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="">No where</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<!-- <p><em>Software Enginner at <a href="">Dream</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="">No where</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 ```javascript
@@ -40,6 +40,6 @@ const shubh = {
 ![soshubh's github stats](https://github-readme-stats.vercel.app/api/pin/?username=soshubh&repo=shubh&cache_seconds=86400&theme=swift)
 ![soshubh's github stats](https://github-readme-stats.vercel.app/api/pin/?username=soshubh&repo=Ist-sem-assignment&cache_seconds=86400&theme=swift)
 ![soshubh's github stats](https://github-readme-stats.vercel.app/api/pin/?username=soshubh&repo=CodeForces&cache_seconds=86400&theme=swift)
-![soshubh's github stats](https://github-readme-stats.vercel.app/api/pin/?username=soshubh&repo=telebot&cache_seconds=86400&theme=swift)
+![soshubh's github stats](https://github-readme-stats.vercel.app/api/pin/?username=soshubh&repo=telebot&cache_seconds=86400&theme=swift) -->
 
 
