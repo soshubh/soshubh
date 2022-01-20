@@ -2,7 +2,7 @@
 
 <!--  [![Shubhanshu Singh header](icon/bshhbs.jpg)](http://soshubh.xyz/) -->
 <img src="https://media.giphy.com/media/MM0Jrc8BHKx3y/giphy.gif" width="100%" height="300"><br>
-<h3 align="center">A Developer [ WEB / APP / BOT ]</h3><hr>
+<h2 align="center">A Developer [ WEB / APP / BOT ]</h2><hr>
 
 - 🔭 I'm a student.
 
@@ -12,7 +12,7 @@
 
 - 📫 For contact [click here](http://soshubh.xyz/#contact).
 
-<h3 align="center">Work On Development</h3><hr>
+<h2 align="center">Work On Development</h2><hr>
 
 - 🌐 Web Development 
    
