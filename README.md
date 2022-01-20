@@ -3,7 +3,7 @@
 <!--  [![Shubhanshu Singh header](icon/bshhbs.jpg)](http://soshubh.xyz/) -->
 <img src="https://media.giphy.com/media/MM0Jrc8BHKx3y/giphy.gif" width="100%" height="300"><br>
 <h3 align="center">A Developer [ WEB / APP / BOT ]</h3>
-
+<hr>
 - 🔭 I'm a student.
 
 - 🌱 Currently styding at <a href="http://www.nitjsr.ac.in/">NIT Jamshedpur</a>.
@@ -13,7 +13,7 @@
 - 📫 For contact [click here](http://soshubh.xyz/#contact).
 
 <h3 align="center">Work On Development</h3>
-
+<hr>
 - 🌐 Web Development 
    
    <a href="http://soshubh.xyz">SHUBH SINGH</a>
