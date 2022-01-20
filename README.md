@@ -13,7 +13,7 @@
 - 📫 For contact [Click here](http://soshubh.xyz/#contact).
 
 <h3 align="center">Work On Development</h3>
-![soshubh's github stats](https://github-readme-stats.vercel.app/api/pin/?username=soshubh&repo=shubh&cache_seconds=86400&theme=swift)
+![soshubh's github stats](https://github-readme-stats.vercel.app/api/pin/?username=soshubh&repo=shubh&cache_seconds=86400&theme=swift)<br>
 ![soshubh's github stats](https://github-readme-stats.vercel.app/api/pin/?username=soshubh&repo=telebot&cache_seconds=86400&theme=swift)
 
 
