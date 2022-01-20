@@ -2,11 +2,7 @@
 
 <!--  [![Shubhanshu Singh header](icon/bshhbs.jpg)](http://soshubh.xyz/) -->
 <img src="https://media.giphy.com/media/MM0Jrc8BHKx3y/giphy.gif" width="100%" height="300"><br>
-<h1>So i am trying to make good README</h1>
-<h3>I hope i can make it soon</h3>
 
-
-<!-- <img align='right' src="https://media.giphy.com/media/HvF4iYme3S5LVBpkbv/giphy-downsized.gif" width="230" > -->
 <p><em>Software Enginner at <a href="">Dream</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="">No where</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
