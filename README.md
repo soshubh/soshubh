@@ -33,8 +33,8 @@
  [![Gmail: Shubhanshu](https://img.shields.io/badge/-workforshubhsingh-pink?style=flat-square&logo=Gmail&logoColor=white&link=https://mail.google.com/mail/u/0/?shubhanshu=workforshubhsingh@gmail.com)](https://mail.google.com/mail/u/0/?shubhanshu=workforshubhsingh@gmail.com)
  [![Website: Shubhanshu](https://img.shields.io/badge/-soshubh.xyz-olive?style=flat-square&logo=Website&logoColor=white&link=http://soshubh.xyz)](http://soshubh.xyz)
  [![GitHub: Shubhanshu](https://img.shields.io/github/followers/soshubh?label=follow&style=social)](https://github.com/soshubh)
- <p><em>Software Enginner at <a href="">Dream</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="">No where</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+
+<h3 align="center">Copy Pest kr ke cool ban jaunga!</h3><hr><br>
 
 ```javascript
 const shubh = {
