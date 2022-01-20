@@ -28,7 +28,7 @@
   
  [![Linkedin: Shubhanshu](https://img.shields.io/badge/-Shubhanshu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shubhanshu-singh-b552511b7/)](https://www.linkedin.com/in/shubhanshu-singh-b552511b7) 
  [![GitHub: Shubhanshu](https://img.shields.io/github/followers/soshubh?label=follow&style=social)](https://github.com/soshubh)
- [![FB: Shubhanshu](https://img.shields.io/badge/Shubhanshu-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]
+ [![Linkedin: Shubhanshu](https://img.shields.io/badge/-Shubhanshu-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/in/shubhanshu-singh-b552511b7/)](https://www.linkedin.com/in/shubhanshu-singh-b552511b7) 
  <p><em>Software Enginner at <a href="">Dream</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="">No where</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
