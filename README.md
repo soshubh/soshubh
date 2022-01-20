@@ -20,10 +20,10 @@
    <br><a href="https://shubhanshusingh.live/">Shubhanshu Singh</a>
 - 🤖 Bot Development
  
-  nitjsrbot<br>
-  so_shubh_bot<br>
-  noob coder<br>
-
+  <br><br><a href="http://t.me/nitjamshedpurbot">NIT Jamshedpur</a>
+  <br><a href="http://t.me/so_shubh_bot">SHUBH SINGH</a>
+  <br><a href="https://discord.com/oauth2/authorize?client_id=920213432739967008&permissions=70282305&scope=bot">Noob Coders </a>
+  <br>
  <p><em>Software Enginner at <a href="">Dream</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="">No where</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
