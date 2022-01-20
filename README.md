@@ -16,7 +16,8 @@
 
 - 🌐 Web Development
 
- soshubh.xyz<br>
+ Visit https://soshubh.xyz
+soshubh.xyz<br>
  shubhanshusingh.live<br>
  howtonotdonitmcet.glitch.me
  
