@@ -13,11 +13,11 @@
 - 📫 For contact [Click here](http://soshubh.xyz/#contact).
 
 <h3 align="center">Work On Development</h3><br>
-<b> - Web Development<b><br>
+- b> Web Development<b><br>
  soshubh.xyz<br>
  shubhanshusingh.live<br>
  howtonotdonitmcet.glitch.me<br>
- <b> - Bot Development<b><br>
+- <b> Bot Development<b><br>
   nitjsrbot<br>
   so_shubh_bot<br>
   noob coder<br>
