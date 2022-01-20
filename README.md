@@ -54,7 +54,8 @@ const shubh = {
 ![soshubh's GitHub stats](https://github-readme-stats.vercel.app/api?username=soshubh&show_icons=true&theme=swift)<br></em>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soshubh&langs_count=8)](https://github.com/soshubh/github-readme-stats)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soshubh&layout=compact)](https://github.com/soshubh/github-readme-stats)
-<h3 align="center">Repository's</h3><hr>
+<h3 align="center">Repository's</h3><hr><br>
+
 ![soshubh's github stats](https://github-readme-stats.vercel.app/api/pin/?username=soshubh&repo=shubh&cache_seconds=86400&theme=swift)
 ![soshubh's github stats](https://github-readme-stats.vercel.app/api/pin/?username=soshubh&repo=Ist-sem-assignment&cache_seconds=86400&theme=swift)
 ![soshubh's github stats](https://github-readme-stats.vercel.app/api/pin/?username=soshubh&repo=CodeForces&cache_seconds=86400&theme=swift)
