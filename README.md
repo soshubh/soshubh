@@ -15,12 +15,13 @@
 <h3 align="center">Work On Development</h3>
 
 - 🌐 Web Development 
-   <br><br><a href="http://soshubh.xyz">SHUBH SINGH</a>
+   
+   <br><a href="http://soshubh.xyz">SHUBH SINGH</a>
    <br><a href="https://how-to-not-do-nimct.glitch.me">HTNDNIMCET</a>
    <br><a href="https://shubhanshusingh.live/">Shubhanshu Singh</a>
 - 🤖 Bot Development
- 
-  <br><br><a href="http://t.me/nitjamshedpurbot">NIT Jamshedpur</a>
+
+  <br><a href="http://t.me/nitjamshedpurbot">NIT Jamshedpur</a>
   <br><a href="http://t.me/so_shubh_bot">SHUBH SINGH</a>
   <br><a href="https://discord.com/oauth2/authorize?client_id=920213432739967008&permissions=70282305&scope=bot">Noob Coders </a>
   <br>
