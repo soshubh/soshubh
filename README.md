@@ -51,7 +51,6 @@ const shubh = {
   <h3 align="center">Social & Hobbies</h3><hr><br>
   
  [![Linkedin: Shubhanshu](https://img.shields.io/badge/-Shubhanshu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shubhanshu-singh-b552511b7/)](https://www.linkedin.com/in/shubhanshu-singh-b552511b7)
-  [![Linkedin: Shubhanshu](https://img.shields.io/badge/blue?style=flat-square&logo=HTML&logoColor=white&link=https://www.linkedin.com/in/shubhanshu-singh-b552511b7/)](https://www.linkedin.com/in/shubhanshu-singh-b552511b7) 
  [![Facebook: Shubhanshu](https://img.shields.io/badge/-Shubhanshu-sky?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/soshubhsingh/)](https://www.facebook.com/soshubhsingh)
  [![Instagram: Shubhanshu](https://img.shields.io/badge/-SoShubh-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/so_shubh/?utm_medium=copy_link/)](https://www.instagram.com/so_shubh/?utm_medium=copy_link)
  [![Whatsapp: Shubhanshu](https://img.shields.io/badge/-9140386605-green?style=flat-square&logo=Messenger&logoColor=white&link=https://api.whatsapp.com/send/?phone=919140386605&text=Hey%21+Shubh+I+got+your+number+from+website.&app_absent=0/)](https://api.whatsapp.com/send/?phone=919140386605&text=Hey%21+Shubh+I+got+your+number+from+website.&app_absent=0)
