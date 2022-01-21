@@ -47,7 +47,7 @@ const shubh = {
  aim: "spread racism"
 }
 ```
- <h3 align="center">SKILL</h3><hr><br>
+ | <h3 align="center">SKILL</h3><hr><br>
  
  ![rating](https://img.shields.io/badge/ProblemSolving-★★★★★☆-yellow)
  ![rating](https://img.shields.io/badge/CPP-★★★★★-yellow)
@@ -55,7 +55,7 @@ const shubh = {
  ![rating](https://img.shields.io/badge/HTML-★★★★★-brightgreen)
  ![rating](https://img.shields.io/badge/CSS-★★★★☆-brightgreen)
  ![rating](https://img.shields.io/badge/JS-★★★☆☆-brightgreen)
- ![rating](https://img.shields.io/badge/Python-★★★☆☆-red)
+ ![rating](https://img.shields.io/badge/Python-★★★☆☆-red) | 
  
   <h3 align="center">Social & Hobbies</h3><hr><br>
   
@@ -65,8 +65,8 @@ const shubh = {
  [![Whatsapp: Shubhanshu](https://img.shields.io/badge/-9140386605-green?style=flat-square&logo=Messenger&logoColor=white&link=https://api.whatsapp.com/send/?phone=919140386605&text=Hey%21+Shubh+I+got+your+number+from+website.&app_absent=0/)](https://api.whatsapp.com/send/?phone=919140386605&text=Hey%21+Shubh+I+got+your+number+from+website.&app_absent=0)
  [![Gmail: Shubhanshu](https://img.shields.io/badge/-workforshubhsingh-pink?style=flat-square&logo=Gmail&logoColor=white&link=https://mail.google.com/mail/u/0/?shubhanshu=workforshubhsingh@gmail.com)](https://mail.google.com/mail/u/0/?shubhanshu=workforshubhsingh@gmail.com)
  [![Website: Shubhanshu](https://img.shields.io/badge/-soshubh.xyz-olive?style=flat-square&logo=Website&logoColor=white&link=http://soshubh.xyz)](http://soshubh.xyz)
- [![GitHub: Shubhanshu](https://img.shields.io/github/followers/soshubh?label=follow&style=social)](https://github.com/soshubh)
-
+ [![GitHub: Shubhanshu](https://img.shields.io/github/followers/soshubh?label=follow&style=social)](https://github.com/soshubh) |
+| ------------- | ------------- |
 <!-- ![soshubh's github stats](https://github-readme-stats.vercel.app/api?username=soshubh&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=swift) -->
 <h3 align="center">Aaaaah let me think</h3><hr><br>
 
