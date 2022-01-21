@@ -55,8 +55,8 @@ const shubh = {
 <!-- ![soshubh's github stats](https://github-readme-stats.vercel.app/api?username=soshubh&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=swift) -->
 <h3 align="center">Aaaaah let me think</h3><hr><br>
 
-![soshubh's GitHub stats](https://github-readme-stats.vercel.app/api?username=soshubh&show_icons=true&theme=swift)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soshubh&layout=compact)](https://github.com/soshubh/github-readme-stats)
+| <a href="https://github.com/soshubh/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=soshubh&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Shubh's github stats" /></a> | <a href="https://github.com/soshubh/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soshubh&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 <h3 align="center">Project's</h3><hr><br>
 
