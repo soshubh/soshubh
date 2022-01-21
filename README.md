@@ -32,8 +32,7 @@
   <br><a href="http://t.me/so_shubh_bot">SHUBH SINGH</a>
   <br><a href="https://discord.com/oauth2/authorize?client_id=920213432739967008&permissions=70282305&scope=bot">Noob Coders </a>
   <br>
-  <h3 align="center">Copy Pest kr ke cool ban jaunga!</h3><hr><br>
-
+<!--   <h3 align="center">Copy Pest kr ke cool ban jaunga!</h3><hr> -->
 ```javascript
 const shubh = {
   pronouns: "he",
