@@ -57,8 +57,9 @@ const shubh = {
  [![Gmail: Shubhanshu](https://img.shields.io/badge/-workforshubhsingh-pink?style=flat-square&logo=Gmail&logoColor=white&link=https://mail.google.com/mail/u/0/?shubhanshu=workforshubhsingh@gmail.com)](https://mail.google.com/mail/u/0/?shubhanshu=workforshubhsingh@gmail.com)
  [![Website: Shubhanshu](https://img.shields.io/badge/-soshubh.xyz-olive?style=flat-square&logo=Website&logoColor=white&link=http://soshubh.xyz)](http://soshubh.xyz)
  [![GitHub: Shubhanshu](https://img.shields.io/github/followers/soshubh?label=follow&style=social)](https://github.com/soshubh)
- ![rating](https://img.shields.io/badge/Problem-Solving-★★★★★☆-brightgreen)
- ![rating](https://img.shields.io/badge/C++-★★★★★-brightgreen)
+ ![rating](https://img.shields.io/badge/ProblemSolving-★★★★★☆-brightgreen)
+ ![rating](https://img.shields.io/badge/CPP-★★★★★-brightgreen)
+ ![rating](https://img.shields.io/badge/C-★★★★★-brightgreen)
 
 <!-- ![soshubh's github stats](https://github-readme-stats.vercel.app/api?username=soshubh&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=swift) -->
 <h3 align="center">Aaaaah let me think</h3><hr><br>
