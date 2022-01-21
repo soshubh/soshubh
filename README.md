@@ -63,7 +63,7 @@ const shubh = {
  ![rating](https://img.shields.io/badge/HTML-★★★★★-brightgreen)
  ![rating](https://img.shields.io/badge/CSS-★★★★☆-brightgreen)
  ![rating](https://img.shields.io/badge/JS-★★★☆☆-brightgreen)
-
+ ![rating](https://img.shields.io/badge/Python-★★★☆☆-brightgreen)
 <!-- ![soshubh's github stats](https://github-readme-stats.vercel.app/api?username=soshubh&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=swift) -->
 <h3 align="center">Aaaaah let me think</h3><hr><br>
 
