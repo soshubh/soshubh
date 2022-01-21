@@ -13,11 +13,11 @@
 - 📫 For contact [click here](http://soshubh.xyz/#contact).
 
 
-
+<!-- 
 <code><img height="50" src="icon/css-coding.png"></code>
 <code><img height="50" src="icon/html (1).png"></code>
 <code><img height="45" src="icon/visual-basic.png"></code>
-<code><img height="45" src="icon/figma.png"></code>
+<code><img height="45" src="icon/figma.png"></code> -->
 
 <h3 align="center">Work On Development</h3><hr>
 
