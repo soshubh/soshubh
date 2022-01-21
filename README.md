@@ -12,6 +12,10 @@
 
 - 📫 For contact [click here](http://soshubh.xyz/#contact).
 
+
+
+<code><a href="https://www.flaticon.com/free-icons/seo-and-web" title="HTML"></a></code>
+
 <h3 align="center">Work On Development</h3><hr>
 
 - 🌐 Web Development 
