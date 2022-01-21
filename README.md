@@ -69,12 +69,12 @@ const shubh = {
 
 
 <!-- ![soshubh's github stats](https://github-readme-stats.vercel.app/api?username=soshubh&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=swift) -->
-<h3 align="center">Aaaaah let me think</h3><hr><br>
+<h2 align="center">Aaaaah let me think</h2>
 
 | <a href="https://github.com/soshubh/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=soshubh&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Shubh's github stats" /></a> | <a href="https://github.com/soshubh/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soshubh&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-<h3 align="center">Project's</h3><hr><br>
+<h2 align="center">Project's</h2>
 
 | ![soshubh's github stats](https://github-readme-stats.vercel.app/api/pin/?username=soshubh&repo=shubh&cache_seconds=86400&theme=swift) ![soshubh's github stats](https://github-readme-stats.vercel.app/api/pin/?username=soshubh&repo=Ist-sem-assignment&cache_seconds=86400&theme=swift) | ![soshubh's github stats](https://github-readme-stats.vercel.app/api/pin/?username=soshubh&repo=CodeForces&cache_seconds=86400&theme=swift) ![soshubh's github stats](https://github-readme-stats.vercel.app/api/pin/?username=soshubh&repo=telebot&cache_seconds=86400&theme=swift) |
 | ------------- | ------------- |
