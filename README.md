@@ -48,6 +48,7 @@ const shubh = {
 }
 ```
  <h2 align="center">SKILL</h2>
+ 
  ![rating](https://img.shields.io/badge/ProblemSolving-★★★★★☆-yellow)
  ![rating](https://img.shields.io/badge/CPP-★★★★★-yellow)
  ![rating](https://img.shields.io/badge/C-★★★★★-yellow)
@@ -55,7 +56,9 @@ const shubh = {
  ![rating](https://img.shields.io/badge/CSS-★★★★☆-brightgreen)
  ![rating](https://img.shields.io/badge/JS-★★★☆☆-brightgreen)
  ![rating](https://img.shields.io/badge/Python-★★★☆☆-red)
+ 
  <h2 align="center">Social & Hobbies</h2>
+ 
  [![Linkedin: Shubhanshu](https://img.shields.io/badge/-Shubhanshu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shubhanshu-singh-b552511b7/)](https://www.linkedin.com/in/shubhanshu-singh-b552511b7)
  [![Facebook: Shubhanshu](https://img.shields.io/badge/-Shubhanshu-sky?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/soshubhsingh/)](https://www.facebook.com/soshubhsingh)
  [![Instagram: Shubhanshu](https://img.shields.io/badge/-SoShubh-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/so_shubh/?utm_medium=copy_link/)](https://www.instagram.com/so_shubh/?utm_medium=copy_link)
