@@ -47,18 +47,14 @@ const shubh = {
  aim: "spread racism"
 }
 ```
- | <h3 align="center">SKILL</h3><hr><br>
- 
+ |<h3 align="center">SKILL</h3><hr><br>
  ![rating](https://img.shields.io/badge/ProblemSolving-★★★★★☆-yellow)
  ![rating](https://img.shields.io/badge/CPP-★★★★★-yellow)
  ![rating](https://img.shields.io/badge/C-★★★★★-yellow)
  ![rating](https://img.shields.io/badge/HTML-★★★★★-brightgreen)
  ![rating](https://img.shields.io/badge/CSS-★★★★☆-brightgreen)
  ![rating](https://img.shields.io/badge/JS-★★★☆☆-brightgreen)
- ![rating](https://img.shields.io/badge/Python-★★★☆☆-red) | 
- 
-  <h3 align="center">Social & Hobbies</h3><hr><br>
-  
+ ![rating](https://img.shields.io/badge/Python-★★★☆☆-red) | <h3 align="center">Social & Hobbies</h3><hr><br>
  [![Linkedin: Shubhanshu](https://img.shields.io/badge/-Shubhanshu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shubhanshu-singh-b552511b7/)](https://www.linkedin.com/in/shubhanshu-singh-b552511b7)
  [![Facebook: Shubhanshu](https://img.shields.io/badge/-Shubhanshu-sky?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/soshubhsingh/)](https://www.facebook.com/soshubhsingh)
  [![Instagram: Shubhanshu](https://img.shields.io/badge/-SoShubh-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/so_shubh/?utm_medium=copy_link/)](https://www.instagram.com/so_shubh/?utm_medium=copy_link)
@@ -67,6 +63,7 @@ const shubh = {
  [![Website: Shubhanshu](https://img.shields.io/badge/-soshubh.xyz-olive?style=flat-square&logo=Website&logoColor=white&link=http://soshubh.xyz)](http://soshubh.xyz)
  [![GitHub: Shubhanshu](https://img.shields.io/github/followers/soshubh?label=follow&style=social)](https://github.com/soshubh) |
 | ------------- | ------------- |
+
 <!-- ![soshubh's github stats](https://github-readme-stats.vercel.app/api?username=soshubh&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=swift) -->
 <h3 align="center">Aaaaah let me think</h3><hr><br>
 
