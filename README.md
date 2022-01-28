@@ -36,6 +36,7 @@
  <h2 align="center">SKILL</h2>
  
  ![rating](https://img.shields.io/badge/ProblemSolving-★★★★★★-yellow)
+ ![rating](https://img.shields.io/badge/Data-Structure-★★★★★-yellow)
  ![rating](https://img.shields.io/badge/CPP-★★★★★-yellow)
  ![rating](https://img.shields.io/badge/C-★★★★★-yellow)
  ![rating](https://img.shields.io/badge/HTML-★★★★★-brightgreen)
