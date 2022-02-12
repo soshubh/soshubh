@@ -60,6 +60,7 @@
   <a href="https://img.shields.io/badge/Python-★★★☆☆-red">
    <img alt="DataStructure-★★★★★-yellow" src="https://img.shields.io/badge/Python-★★★☆☆-red" />
   </a>      
+ </p>
 <!--  ![rating](https://img.shields.io/badge/ProblemSolving-★★★★★★-yellow) -->
 <!--  ![rating](https://img.shields.io/badge/DataStructure-★★★★★-yellow) -->
 <!--  ![rating](https://img.shields.io/badge/CPP-★★★★★-yellow) -->
@@ -68,11 +69,14 @@
 <!--  ![rating](https://img.shields.io/badge/CSS-★★★★☆-brightgreen) -->
 <!--  ![rating](https://img.shields.io/badge/JS-★★★☆☆-brightgreen) -->
 <!--  ![rating](https://img.shields.io/badge/Python-★★★☆☆-red) -->
-  </p>
+ 
   
  <h2 align="center">Social & Hobbies</h2>
  
   <p align="center">
+   <a href="https://www.linkedin.com/in/shubhanshu-singh-b552511b7">
+   <img alt="Shubhanshu" src="https://img.shields.io/badge/-Shubhanshu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shubhanshu-singh-b552511b7/" />
+  </a>
  [![Linkedin: Shubhanshu](https://img.shields.io/badge/-Shubhanshu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shubhanshu-singh-b552511b7/)](https://www.linkedin.com/in/shubhanshu-singh-b552511b7)
  [![Facebook: Shubhanshu](https://img.shields.io/badge/-Shubhanshu-sky?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/soshubhsingh/)](https://www.facebook.com/soshubhsingh)
  [![Instagram: Shubhanshu](https://img.shields.io/badge/-SoShubh-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/so_shubh/?utm_medium=copy_link/)](https://www.instagram.com/so_shubh/?utm_medium=copy_link)
