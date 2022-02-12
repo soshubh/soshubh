@@ -43,22 +43,22 @@
    <img alt="DataStructure-★★★★★-yellow" src="https://img.shields.io/badge/DataStructure-★★★★★-yellow" />
   </a>
   <a href="https://img.shields.io/badge/CPP-★★★★★-yellow">
-   <img alt="ProblemSolving-★★★★★★-yellow" src="https://img.shields.io/badge/CPP-★★★★★-yellow" />
+   <img alt="CPP-★★★★★-yellow" src="https://img.shields.io/badge/CPP-★★★★★-yellow" />
   </a>
   <a href="https://img.shields.io/badge/C-★★★★★-yellow">
-   <img alt="DataStructure-★★★★★-yellow" src="https://img.shields.io/badge/C-★★★★★-yellow" />
+   <img alt="C-★★★★★-yellow" src="https://img.shields.io/badge/C-★★★★★-yellow" />
   </a>
   <a href="https://img.shields.io/badge/HTML-★★★★★-brightgreen">
-   <img alt="ProblemSolving-★★★★★★-yellow" src="https://img.shields.io/badge/HTML-★★★★★-brightgreen" />
+   <img alt="HTML-★★★★★-brightgreen" src="https://img.shields.io/badge/HTML-★★★★★-brightgreen" />
   </a>
   <a href="https://img.shields.io/badge/CSS-★★★★☆-brightgreen">
-   <img alt="DataStructure-★★★★★-yellow" src="https://img.shields.io/badge/CSS-★★★★☆-brightgreen" />
+   <img alt="CSS-★★★★☆-brightgreen" src="https://img.shields.io/badge/CSS-★★★★☆-brightgreen" />
   </a>
   <a href="https://img.shields.io/badge/JS-★★★☆☆-brightgreen">
-   <img alt="ProblemSolving-★★★★★★-yellow" src="https://img.shields.io/badge/JS-★★★☆☆-brightgreen" />
+   <img alt="JS-★★★☆☆-brightgreen" src="https://img.shields.io/badge/JS-★★★☆☆-brightgreen" />
   </a>
   <a href="https://img.shields.io/badge/Python-★★★☆☆-red">
-   <img alt="DataStructure-★★★★★-yellow" src="https://img.shields.io/badge/Python-★★★☆☆-red" />
+   <img alt="Python-★★★☆☆-red" src="https://img.shields.io/badge/Python-★★★☆☆-red" />
   </a>      
  </p>
 <!--  ![rating](https://img.shields.io/badge/ProblemSolving-★★★★★★-yellow) -->
@@ -71,20 +71,39 @@
 <!--  ![rating](https://img.shields.io/badge/Python-★★★☆☆-red) -->
  
   
- <h2 align="center">Social & Hobbies</h2>
- 
-  <p align="center">
-   <a href="https://www.linkedin.com/in/shubhanshu-singh-b552511b7">
+<h2 align="center">Social & Hobbies</h2>
+
+<p align="center">
+ <a href="https://www.linkedin.com/in/shubhanshu-singh-b552511b7">
    <img alt="Shubhanshu" src="https://img.shields.io/badge/-Shubhanshu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shubhanshu-singh-b552511b7/" />
-  </a>
- [![Linkedin: Shubhanshu](https://img.shields.io/badge/-Shubhanshu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shubhanshu-singh-b552511b7/)](https://www.linkedin.com/in/shubhanshu-singh-b552511b7)
- [![Facebook: Shubhanshu](https://img.shields.io/badge/-Shubhanshu-sky?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/soshubhsingh/)](https://www.facebook.com/soshubhsingh)
- [![Instagram: Shubhanshu](https://img.shields.io/badge/-SoShubh-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/so_shubh/?utm_medium=copy_link/)](https://www.instagram.com/so_shubh/?utm_medium=copy_link)
- [![Whatsapp: Shubhanshu](https://img.shields.io/badge/-9140386605-green?style=flat-square&logo=Messenger&logoColor=white&link=https://api.whatsapp.com/send/?phone=919140386605&text=Hey%21+Shubh+I+got+your+number+from+website.&app_absent=0/)](https://api.whatsapp.com/send/?phone=919140386605&text=Hey%21+Shubh+I+got+your+number+from+website.&app_absent=0)
- [![Gmail: Shubhanshu](https://img.shields.io/badge/-workforshubhsingh-pink?style=flat-square&logo=Gmail&logoColor=white&link=https://mail.google.com/mail/u/0/?shubhanshu=workforshubhsingh@gmail.com)](https://mail.google.com/mail/u/0/?shubhanshu=workforshubhsingh@gmail.com)
- [![Website: Shubhanshu](https://img.shields.io/badge/-soshubh.xyz-olive?style=flat-square&logo=Website&logoColor=white&link=http://soshubh.xyz)](http://soshubh.xyz)
- [![GitHub: Shubhanshu](https://img.shields.io/github/followers/soshubh?label=follow&style=social)](https://github.com/soshubh)
-  </p>
+ </a>
+ <a href="https://www.facebook.com/soshubhsingh">
+   <img alt="Shubhanshu" src="https://img.shields.io/badge/-Shubhanshu-sky?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/soshubhsingh/" />
+ </a>
+ <a href="https://www.instagram.com/so_shubh/?utm_medium=copy_link">
+   <img alt="Shubhanshu" src="https://img.shields.io/badge/-SoShubh-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/so_shubh/?utm_medium=copy_link/" />
+ </a>
+ <a href="https://api.whatsapp.com/send/?phone=919140386605&text=Hey%21+Shubh+I+got+your+number+from+website.&app_absent=0">
+   <img alt="Shubhanshu" src="https://img.shields.io/badge/-9140386605-green?style=flat-square&logo=Messenger&logoColor=white&link=https://api.whatsapp.com/send/?phone=919140386605&text=Hey%21+Shubh+I+got+your+number+from+website.&app_absent=0/" />
+ </a>
+ <a href="https://mail.google.com/mail/u/0/?shubhanshu=workforshubhsingh@gmail.com">
+   <img alt="Shubhanshu" src="https://img.shields.io/badge/-workforshubhsingh-pink?style=flat-square&logo=Gmail&logoColor=white&link=https://mail.google.com/mail/u/0/?shubhanshu=workforshubhsingh@gmail.com" />
+ </a>
+ <a href="http://soshubh.xyz">
+   <img alt="Shubhanshu" src="https://img.shields.io/badge/-soshubh.xyz-olive?style=flat-square&logo=Website&logoColor=white&link=http://soshubh.xyz" />
+ </a>
+ <a href="https://github.com/soshubh">
+   <img alt="Shubhanshu" src="https://img.shields.io/github/followers/soshubh?label=follow&style=social" />
+ </a>
+</p>
+ <!--  [![Linkedin: Shubhanshu](https://img.shields.io/badge/-Shubhanshu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shubhanshu-singh-b552511b7/)](https://www.linkedin.com/in/shubhanshu-singh-b552511b7) -->
+<!--  [![Facebook: Shubhanshu](https://img.shields.io/badge/-Shubhanshu-sky?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/soshubhsingh/)](https://www.facebook.com/soshubhsingh) -->
+<!--  [![Instagram: Shubhanshu](https://img.shields.io/badge/-SoShubh-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/so_shubh/?utm_medium=copy_link/)](https://www.instagram.com/so_shubh/?utm_medium=copy_link) -->
+<!--  [![Whatsapp: Shubhanshu](https://img.shields.io/badge/-9140386605-green?style=flat-square&logo=Messenger&logoColor=white&link=https://api.whatsapp.com/send/?phone=919140386605&text=Hey%21+Shubh+I+got+your+number+from+website.&app_absent=0/)](https://api.whatsapp.com/send/?phone=919140386605&text=Hey%21+Shubh+I+got+your+number+from+website.&app_absent=0) -->
+<!--  [![Gmail: Shubhanshu](https://img.shields.io/badge/-workforshubhsingh-pink?style=flat-square&logo=Gmail&logoColor=white&link=https://mail.google.com/mail/u/0/?shubhanshu=workforshubhsingh@gmail.com)](https://mail.google.com/mail/u/0/?shubhanshu=workforshubhsingh@gmail.com) -->
+<!--  [![Website: Shubhanshu](https://img.shields.io/badge/-soshubh.xyz-olive?style=flat-square&logo=Website&logoColor=white&link=http://soshubh.xyz)](http://soshubh.xyz) -->
+<!--  [![GitHub: Shubhanshu](https://img.shields.io/github/followers/soshubh?label=follow&style=social)](https://github.com/soshubh) -->
+ 
 
 <!-- ![soshubh's github stats](https://github-readme-stats.vercel.app/api?username=soshubh&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=swift) -->
 <h2 align="center">Language's and Stat's</h2>
