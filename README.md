@@ -26,6 +26,7 @@
    <a href="http://soshubh.xyz">SHUBH SINGH</a>
    <br><a href="https://how-to-not-do-nimct.glitch.me">HTNDNIMCET</a>
    <br><a href="https://shubhanshusingh.live/">Shubhanshu Singh</a>
+   
 - 🤖 Bot Development
 
   <a href="http://t.me/nitjamshedpurbot">NIT Jamshedpur</a>
@@ -35,7 +36,7 @@
 
  <h2 align="center">SKILL</h2>
  
- <p align="center">
+<p align="center">
   <a href="https://img.shields.io/badge/ProblemSolving-★★★★★★-yellow">
    <img alt="ProblemSolving-★★★★★★-yellow" src="https://img.shields.io/badge/ProblemSolving-★★★★★★-yellow" />
   </a>
@@ -59,16 +60,9 @@
   </a>
   <a href="https://img.shields.io/badge/Python-★★★☆☆-red">
    <img alt="Python-★★★☆☆-red" src="https://img.shields.io/badge/Python-★★★☆☆-red" />
-  </a>      
- </p>
-<!--  ![rating](https://img.shields.io/badge/ProblemSolving-★★★★★★-yellow) -->
-<!--  ![rating](https://img.shields.io/badge/DataStructure-★★★★★-yellow) -->
-<!--  ![rating](https://img.shields.io/badge/CPP-★★★★★-yellow) -->
-<!--  ![rating](https://img.shields.io/badge/C-★★★★★-yellow) -->
-<!--  ![rating](https://img.shields.io/badge/HTML-★★★★★-brightgreen) -->
-<!--  ![rating](https://img.shields.io/badge/CSS-★★★★☆-brightgreen) -->
-<!--  ![rating](https://img.shields.io/badge/JS-★★★☆☆-brightgreen) -->
-<!--  ![rating](https://img.shields.io/badge/Python-★★★☆☆-red) -->
+   </a>
+</p>
+
  
   
 <h2 align="center">Social & Hobbies</h2>
@@ -95,15 +89,9 @@
  <a href="https://github.com/soshubh">
    <img alt="Shubhanshu" src="https://img.shields.io/github/followers/soshubh?label=follow&style=social" />
  </a>
+   
 </p>
- <!--  [![Linkedin: Shubhanshu](https://img.shields.io/badge/-Shubhanshu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shubhanshu-singh-b552511b7/)](https://www.linkedin.com/in/shubhanshu-singh-b552511b7) -->
-<!--  [![Facebook: Shubhanshu](https://img.shields.io/badge/-Shubhanshu-sky?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/soshubhsingh/)](https://www.facebook.com/soshubhsingh) -->
-<!--  [![Instagram: Shubhanshu](https://img.shields.io/badge/-SoShubh-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/so_shubh/?utm_medium=copy_link/)](https://www.instagram.com/so_shubh/?utm_medium=copy_link) -->
-<!--  [![Whatsapp: Shubhanshu](https://img.shields.io/badge/-9140386605-green?style=flat-square&logo=Messenger&logoColor=white&link=https://api.whatsapp.com/send/?phone=919140386605&text=Hey%21+Shubh+I+got+your+number+from+website.&app_absent=0/)](https://api.whatsapp.com/send/?phone=919140386605&text=Hey%21+Shubh+I+got+your+number+from+website.&app_absent=0) -->
-<!--  [![Gmail: Shubhanshu](https://img.shields.io/badge/-workforshubhsingh-pink?style=flat-square&logo=Gmail&logoColor=white&link=https://mail.google.com/mail/u/0/?shubhanshu=workforshubhsingh@gmail.com)](https://mail.google.com/mail/u/0/?shubhanshu=workforshubhsingh@gmail.com) -->
-<!--  [![Website: Shubhanshu](https://img.shields.io/badge/-soshubh.xyz-olive?style=flat-square&logo=Website&logoColor=white&link=http://soshubh.xyz)](http://soshubh.xyz) -->
-<!--  [![GitHub: Shubhanshu](https://img.shields.io/github/followers/soshubh?label=follow&style=social)](https://github.com/soshubh) -->
- 
+
 
 <!-- ![soshubh's github stats](https://github-readme-stats.vercel.app/api?username=soshubh&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=swift) -->
 <h2 align="center">Language's and Stat's</h2>
