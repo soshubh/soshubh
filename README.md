@@ -35,18 +35,39 @@
 
  <h2 align="center">SKILL</h2>
  
-  <p align="center">
-   <a href="https://img.shields.io/badge/ProblemSolving-★★★★★★-yellow">
-      <img alt="Tests Passing" src="https://img.shields.io/badge/ProblemSolving-★★★★★★-yellow" />
-    </a>
- ![rating](https://img.shields.io/badge/ProblemSolving-★★★★★★-yellow)
- ![rating](https://img.shields.io/badge/DataStructure-★★★★★-yellow)
- ![rating](https://img.shields.io/badge/CPP-★★★★★-yellow)
- ![rating](https://img.shields.io/badge/C-★★★★★-yellow)
- ![rating](https://img.shields.io/badge/HTML-★★★★★-brightgreen)
- ![rating](https://img.shields.io/badge/CSS-★★★★☆-brightgreen)
- ![rating](https://img.shields.io/badge/JS-★★★☆☆-brightgreen)
- ![rating](https://img.shields.io/badge/Python-★★★☆☆-red)
+ <p align="center">
+  <a href="https://img.shields.io/badge/ProblemSolving-★★★★★★-yellow">
+   <img alt="ProblemSolving-★★★★★★-yellow" src="https://img.shields.io/badge/ProblemSolving-★★★★★★-yellow" />
+  </a>
+  <a href="https://img.shields.io/badge/DataStructure-★★★★★-yellow">
+   <img alt="DataStructure-★★★★★-yellow" src="https://img.shields.io/badge/DataStructure-★★★★★-yellow" />
+  </a>
+  <a href="https://img.shields.io/badge/CPP-★★★★★-yellow">
+   <img alt="ProblemSolving-★★★★★★-yellow" src="https://img.shields.io/badge/CPP-★★★★★-yellow" />
+  </a>
+  <a href="https://img.shields.io/badge/C-★★★★★-yellow">
+   <img alt="DataStructure-★★★★★-yellow" src="https://img.shields.io/badge/C-★★★★★-yellow" />
+  </a>
+  <a href="https://img.shields.io/badge/HTML-★★★★★-brightgreen">
+   <img alt="ProblemSolving-★★★★★★-yellow" src="https://img.shields.io/badge/HTML-★★★★★-brightgreen" />
+  </a>
+  <a href="https://img.shields.io/badge/CSS-★★★★☆-brightgreen">
+   <img alt="DataStructure-★★★★★-yellow" src="https://img.shields.io/badge/CSS-★★★★☆-brightgreen" />
+  </a>
+  <a href="https://img.shields.io/badge/JS-★★★☆☆-brightgreen">
+   <img alt="ProblemSolving-★★★★★★-yellow" src="https://img.shields.io/badge/JS-★★★☆☆-brightgreen" />
+  </a>
+  <a href="https://img.shields.io/badge/Python-★★★☆☆-red">
+   <img alt="DataStructure-★★★★★-yellow" src="https://img.shields.io/badge/Python-★★★☆☆-red" />
+  </a>      
+<!--  ![rating](https://img.shields.io/badge/ProblemSolving-★★★★★★-yellow) -->
+<!--  ![rating](https://img.shields.io/badge/DataStructure-★★★★★-yellow) -->
+<!--  ![rating](https://img.shields.io/badge/CPP-★★★★★-yellow) -->
+<!--  ![rating](https://img.shields.io/badge/C-★★★★★-yellow) -->
+<!--  ![rating](https://img.shields.io/badge/HTML-★★★★★-brightgreen) -->
+<!--  ![rating](https://img.shields.io/badge/CSS-★★★★☆-brightgreen) -->
+<!--  ![rating](https://img.shields.io/badge/JS-★★★☆☆-brightgreen) -->
+<!--  ![rating](https://img.shields.io/badge/Python-★★★☆☆-red) -->
   </p>
   
  <h2 align="center">Social & Hobbies</h2>
