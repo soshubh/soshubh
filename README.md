@@ -36,7 +36,7 @@
 
  <h2 align="center">SKILL</h2>
  
-<p align="center" width="80%">
+<p align="center" width="40%">
   <a href="https://img.shields.io/badge/ProblemSolving-★★★★★★-yellow">
    <img alt="ProblemSolving-★★★★★★-yellow" src="https://img.shields.io/badge/ProblemSolving-★★★★★★-yellow" />
   </a>
