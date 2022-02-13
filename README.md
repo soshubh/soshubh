@@ -36,8 +36,8 @@
 
  <h2 align="center">SKILL</h2>
  
-<p align="center" width="40%">
-  <a href="https://img.shields.io/badge/ProblemSolving-★★★★★★-yellow">
+<p align="center">
+  |<a href="https://img.shields.io/badge/ProblemSolving-★★★★★★-yellow">
    <img alt="ProblemSolving-★★★★★★-yellow" src="https://img.shields.io/badge/ProblemSolving-★★★★★★-yellow" />
   </a>
   <a href="https://img.shields.io/badge/DataStructure-★★★★★-yellow">
@@ -48,7 +48,8 @@
   </a>
   <a href="https://img.shields.io/badge/C-★★★★★-yellow">
    <img alt="C-★★★★★-yellow" src="https://img.shields.io/badge/C-★★★★★-yellow" />
-  </a>
+  </a>|
+   | ------------- | ------------- | ------------- | ------------- |
   <a href="https://img.shields.io/badge/HTML-★★★★★-brightgreen">
    <img alt="HTML-★★★★★-brightgreen" src="https://img.shields.io/badge/HTML-★★★★★-brightgreen" />
   </a>
