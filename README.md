@@ -49,7 +49,7 @@
   <a href="https://img.shields.io/badge/C-★★★★★-yellow">
    <img alt="C-★★★★★-yellow" src="https://img.shields.io/badge/C-★★★★★-yellow" />
   </a>|
-   | ------------- | ------------- | ------------- | ------------- |
+   | ------------- | ------------- |
    <br>
   <a href="https://img.shields.io/badge/HTML-★★★★★-brightgreen">
    <img alt="HTML-★★★★★-brightgreen" src="https://img.shields.io/badge/HTML-★★★★★-brightgreen" />
