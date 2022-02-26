@@ -1,7 +1,13 @@
+<!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
+
 <h1 align="center">Hi 👋, I'm Shubh<!-- <img src="https://media.giphy.com/media/R6gvnAxj2ISzJdbA63/giphy.gif" width="50">--></h1>
-<!-- https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif -->
-<!--  [![Shubhanshu Singh header](icon/bshhbs.jpg)](http://soshubh.xyz/) -->
+
+<!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
+
 <img src="https://media.giphy.com/media/MM0Jrc8BHKx3y/giphy.gif" width="100%" height="300"><br>
+
+<!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
+
 <h3 align="center">A Developer [ WEB / APP / BOT ]</h3><hr>
 
 - 🔭 I'm a student.
@@ -12,12 +18,16 @@
 
 - 📫 For contact [click here](http://soshubh.xyz/#contact).
 
+<!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
 
 <!-- 
 <code><img height="50" src="icon/css-coding.png"></code>
 <code><img height="50" src="icon/html (1).png"></code>
 <code><img height="45" src="icon/visual-basic.png"></code>
 <code><img height="45" src="icon/figma.png"></code> -->
+
+
+<!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
 
 <h3 align="center">Work On Development</h3><hr>
 
@@ -33,9 +43,11 @@
   <br><a href="http://t.me/so_shubh_bot">SHUBH SINGH</a>
   <br><a href="https://discord.com/oauth2/authorize?client_id=920213432739967008&permissions=70282305&scope=bot">Noob Coders </a>
   <br>
-
- <h2 align="center">SKILL</h2>
  
+<!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
+
+<h2 align="center">SKILL</h2>
+
 <p align="center">
   <a href="https://img.shields.io/badge/ProblemSolving-★★★★★★-yellow">
    <img alt="ProblemSolving-★★★★★★-yellow" src="https://img.shields.io/badge/ProblemSolving-★★★★★★-yellow" />
@@ -63,8 +75,8 @@
    </a>
 </p>
 
- 
-  
+<!-- ----------------------------------------------------------------------------------------------------------------------------------------->
+
 <h2 align="center">Social & Hobbies</h2>
 
 <p align="center">
@@ -88,23 +100,20 @@
  </a>
  <a href="https://github.com/soshubh">
    <img alt="Shubhanshu" src="https://img.shields.io/github/followers/soshubh?label=follow&style=social" />
- </a>
-   
+ </a>   
 </p>
 
+<!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
 
 <!-- ![soshubh's github stats](https://github-readme-stats.vercel.app/api?username=soshubh&show_icons=true&include_all_commits=true&theme=swift&hide_border=true) -->
-
 <h2 align="center">Language's and Stat's</h2>
-
-<p align="center">
-
 | <a href="https://github.com/soshubh/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=soshubh&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=swift" alt="Shubh's github stats" /></a> | <a href="https://github.com/soshubh/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soshubh&layout=compact&theme=swift&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-</p>
-   
-<h2 align="center">Project's</h2>
+<!-- --------------------------------------------------------------------------------------------------------------------------------------- -->   
 
+<h2 align="center">Project's</h2>
 | ![soshubh's github stats](https://github-readme-stats.vercel.app/api/pin/?username=soshubh&repo=shubh&cache_seconds=86400&theme=swift) ![soshubh's github stats](https://github-readme-stats.vercel.app/api/pin/?username=soshubh&repo=Ist-sem-assignment&cache_seconds=86400&theme=swift) | ![soshubh's github stats](https://github-readme-stats.vercel.app/api/pin/?username=soshubh&repo=CodeForces&cache_seconds=86400&theme=swift) ![soshubh's github stats](https://github-readme-stats.vercel.app/api/pin/?username=soshubh&repo=shubhanshusingh.live&cache_seconds=86400&theme=swift) |
 | ------------- | ------------- |
+
+<!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
