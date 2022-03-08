@@ -80,7 +80,7 @@
   <code><img height="40" src="icon/PngItem_312155.png"></code> 
   <code><img height="40" src="icon/PngItem_5131577.png"></code> 
   <code><img height="37" src="icon/visual-basic.png"></code>
-  <code><img height="37" src="icon/figma.png"></code>
+  <code><img height="35" src="icon/figma.png"></code>
 <!--   <code><img height="45" src="icon/PngItem_312155.png"></code>  -->
  
 </p>
