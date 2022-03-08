@@ -10,7 +10,7 @@
 
 <h3 align="center">A Developer [ WEB / APP / BOT ]</h3><hr>
 
-- 🔭 I'm a student.
+- 🎀 I'm a student.
 
 - 🌱 Currently styding at <a href="http://www.nitjsr.ac.in/">NIT Jamshedpur</a>.
 
