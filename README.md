@@ -18,14 +18,6 @@
 
 - 📫 For contact [click here](http://soshubh.xyz/#contact).
 
-<!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
-
-<h3 align="center">Languages and Tools</h3><hr>
-
-<code><img height="50" src="icon/css-coding.png"></code>
-<code><img height="50" src="icon/html (1).png"></code>
-<code><img height="45" src="icon/visual-basic.png"></code>
-<code><img height="45" src="icon/figma.png"></code>
 
 
 <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
@@ -75,6 +67,16 @@
    <img alt="Python-★★★☆☆-red" src="https://img.shields.io/badge/Python-★★★☆☆-red" />
    </a>
 </p>
+
+<!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
+
+<h2 align="center">Languages and Tools</h2>
+
+<code><img height="50" src="icon/css-coding.png"></code>
+<code><img height="50" src="icon/html (1).png"></code>
+<code><img height="45" src="icon/visual-basic.png"></code>
+<code><img height="45" src="icon/figma.png"></code>
+
 
 <!-- ----------------------------------------------------------------------------------------------------------------------------------------->
 
