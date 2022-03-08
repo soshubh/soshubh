@@ -39,7 +39,7 @@
  
 <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
 
-<h2 align="center">SKILL</h2>
+<h2 align="center">Skill</h2>
 
 <p align="center">
   <a href="https://img.shields.io/badge/ProblemSolving-★★★★★★-yellow">
@@ -70,7 +70,7 @@
 
 <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
 
-<h2 align="center">TOOLS</h2>
+<h2 align="center">Tool's</h2>
  
  <p align="center">
   <code color="white"><img height="45" src="icon/css-coding.png"></code>
