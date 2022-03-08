@@ -73,7 +73,7 @@
 <h2 align="center">Tool's</h2>
  
  <p align="center">
-  <code color="white"><img height="45" src="icon/css-coding.png"></code>
+  <code><img height="40" src="icon/css-coding.png"></code>
   <code><img height="40" src="icon/html (1).png"></code>
   <code><img height="40" src="icon/Daco_3133777.png"></code> 
   <code><img height="40" src="icon/1646758288831.png"></code>
