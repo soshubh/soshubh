@@ -71,12 +71,13 @@
 <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
 
 <h2 align="center">Languages and Tools</h2>
-
-<code><img height="50" src="icon/css-coding.png"></code>
-<code><img height="50" src="icon/html (1).png"></code>
-<code><img height="45" src="icon/visual-basic.png"></code>
-<code><img height="45" src="icon/figma.png"></code>
-
+ 
+ <p align="center">
+  <code><img height="45" src="icon/css-coding.png"></code>
+  <code><img height="45" src="icon/html (1).png"></code>
+  <code><img height="45" src="icon/visual-basic.png"></code>
+  <code><img height="45" src="icon/figma.png"></code>
+ </p>
 
 <!-- ----------------------------------------------------------------------------------------------------------------------------------------->
 
