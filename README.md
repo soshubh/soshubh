@@ -77,7 +77,7 @@
   <code><img height="45" src="icon/html (1).png"></code>
   <code><img height="45" src="icon/visual-basic.png"></code>
   <code><img height="45" src="icon/figma.png"></code>
-  <code><img height="45" src="icon/161-1610533_repl-it-logo-png-transparent-png.png"></code>
+  <code><img height="45" src="icon/1646758288831.png"></code>
   <code><img height="45" src="icon/PngItem_312155.png"></code> 
   <code><img height="45" src="icon/PngItem_312155.png"></code> 
   <code><img height="45" src="icon/PngItem_312155.png"></code> 
