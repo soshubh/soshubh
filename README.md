@@ -70,7 +70,7 @@
 
 <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
 
-<h2 align="center">Languages and Tools</h2>
+<h2 align="center">TOOLS</h2>
  
  <p align="center">
   <code color="white"><img height="45" src="icon/css-coding.png"></code>
