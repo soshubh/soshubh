@@ -1,3 +1,4 @@
+![IMG_20220417_171619](https://user-images.githubusercontent.com/90331406/164207032-e6a4808b-9557-4d06-9057-02d7c23acda5.jpg)
 <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
 
 <h1 align="center">Hi 👋, I'm Shubh<!-- <img src="https://media.giphy.com/media/R6gvnAxj2ISzJdbA63/giphy.gif" width="50">--></h1>
@@ -117,7 +118,7 @@
 <!-- ![soshubh's github stats](https://github-readme-stats.vercel.app/api?username=soshubh&show_icons=true&include_all_commits=true&theme=swift&hide_border=true) -->
 <h2 align="center">Language's and Stat's</h2>
 
-| <a href="https://github.com/soshubh/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=soshubh&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=swift" alt="Shubh's github stats" /></a> | <a href="https://github.com/soshubh/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=soshubh&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /></a> |
+| <a href="https://github.com/soshubh/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=soshubh&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=swift" alt="Shubh's github stats" /></a> | <a href="https://github.com/soshubh/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soshubh&layout=compact&theme=react" /></a> |
 
 | ------------- | ------------- |
 
