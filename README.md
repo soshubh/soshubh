@@ -1,4 +1,3 @@
-![IMG_20220417_171619](https://user-images.githubusercontent.com/90331406/164207032-e6a4808b-9557-4d06-9057-02d7c23acda5.jpg)
 <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
 
 <h1 align="center">Hi 👋, I'm Shubh<!-- <img src="https://media.giphy.com/media/R6gvnAxj2ISzJdbA63/giphy.gif" width="50">--></h1>
