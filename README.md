@@ -14,10 +14,10 @@
 
 - 🌱 Currently styding at <a href="http://www.nitjsr.ac.in" target="_blank" rel="noopener" >NIT Jamshedpur</a>.
 
-- 👨‍💻 I did some project you can check <a href="http://soshubh.xyz/#work" target="_blank" rel="noopener" >here</a>
+- 👨‍💻 I did some project you can check <a href="http://soshubh.xyz/#work" target="_blank" rel="noopener" >here</a>.
 <!-- - [here](http://soshubh.xyz/#work). -->
 
-- 📫 For contact <a href="http://soshubh.xyz/#contact" target="_blank" rel="noopener" >click here</a>
+- 📫 For contact <a href="http://soshubh.xyz/#contact" target="_blank" rel="noopener" >click here</a>.
 <!-- - [click here](http://soshubh.xyz/#contact). -->
 
 
