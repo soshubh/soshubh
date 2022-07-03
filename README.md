@@ -12,7 +12,7 @@
 
 - 🎀 I'm a student.
 
-- 🌱 Currently styding at <a href="http://www.nitjsr.ac.in/" target="_blank">NIT Jamshedpur</a>.
+- 🌱 Currently styding at <a href="http://www.nitjsr.ac.in" target="_blank" rel="noopener" >NIT Jamshedpur</a>.
 
 - 👨‍💻 I did some project you can check [here](http://soshubh.xyz/#work).
 
