@@ -57,12 +57,19 @@
   <a href="https://img.shields.io/badge/DataStructure-★★★★★-yellow">
    <img alt="DataStructure-★★★★★-yellow" src="https://img.shields.io/badge/DataStructure-★★★★★-yellow" />
   </a>
+   
   <a href="https://img.shields.io/badge/CPP-★★★★★-yellow">
    <img alt="CPP-★★★★★-yellow" src="https://img.shields.io/badge/CPP-★★★★★-yellow" />
   </a>
   <a href="https://img.shields.io/badge/C-★★★★★-yellow">
    <img alt="C-★★★★★-yellow" src="https://img.shields.io/badge/C-★★★★★-yellow" />
   </a>
+   
+  <a href="https://img.shields.io/badge/JAVA-★★★★☆-yellow">
+   <img alt="JAVA-★★★★★-yellow" src="https://img.shields.io/badge/JAVA-★★★★★-yellow" />
+  </a>
+   
+   
   <a href="https://img.shields.io/badge/HTML-★★★★★-brightgreen">
    <img alt="HTML-★★★★★-brightgreen" src="https://img.shields.io/badge/HTML-★★★★★-brightgreen" />
   </a>
