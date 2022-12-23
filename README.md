@@ -89,14 +89,14 @@
 <h2 align="center">Tool's</h2>
  
  <p align="center">
-  <code><img height="40" src="icon/css-coding.png"></code>
-  <code><img height="40" src="icon/html (1).png"></code>
-  <code><img height="40" src="icon/Daco_3133777.png"></code> 
-  <code><img height="40" src="icon/1646758288831.png"></code>
-  <code><img height="40" src="icon/PngItem_312155.png"></code> 
-  <code><img height="40" src="icon/PngItem_5131577.png"></code> 
-  <code><img height="37" src="icon/visual-basic.png"></code>
-  <code><img height="35" src="icon/figma.png"></code>
+  <code><img height="45" src="icon/css-coding.png"></code>
+  <code><img height="45" src="icon/html (1).png"></code>
+  <code><img height="45" src="icon/Daco_3133777.png"></code> 
+  <code><img height="45" src="icon/1646758288831.png"></code>
+  <code><img height="45" src="icon/PngItem_312155.png"></code> 
+  <code><img height="45" src="icon/PngItem_5131577.png"></code> 
+  <code><img height="40" src="icon/visual-basic.png"></code>
+  <code><img height="40" src="icon/figma.png"></code>
 <!--   <code><img height="45" src="icon/PngItem_312155.png"></code>  -->
  
 </p>
