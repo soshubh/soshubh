@@ -66,7 +66,7 @@
   </a>
    
   <a href="https://img.shields.io/badge/JAVA-★★★★☆-yellow">
-   <img alt="JAVA-★★★★★-yellow" src="https://img.shields.io/badge/JAVA-★★★★★-yellow" />
+   <img alt="JAVA-★★★★☆-yellow" src="https://img.shields.io/badge/JAVA-★★★★☆-yellow" />
   </a>
    
    
