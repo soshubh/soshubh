@@ -11,11 +11,8 @@
 
 <h2 align="center">A Developer [ WEB / APP / BOT ]</h2>
 <!-- <hr> -->
-
 - 🎀 I'm a student.
-
 - 🌱 Currently styding at <a href="http://www.nitjsr.ac.in" target="_blank" rel="noopener" >NIT Jamshedpur</a>.
-
 - 👨‍💻 I did some project you can check <a href="http://soshubh.xyz/#work" target="_blank" rel="noopener" >here</a>.
 <!-- - [here](http://soshubh.xyz/#work). -->
 
