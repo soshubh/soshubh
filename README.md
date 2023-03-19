@@ -26,7 +26,6 @@
 <!-- <hr> -->
 
 - 🌐 Web Development 
-- 
    <a href="https://soshubh.netlify.app/">Shubhanshu Singh</a>
    <br><a href="http://soshubh.xyz">SHUBH SINGH</a>
    <br><a href="https://how-to-not-do-nimct.glitch.me">HTNDNIMCET</a>
