@@ -14,10 +14,9 @@
 
 - 🎀 I'm a student.
 - 🌱 Currently styding at <a href="http://www.nitjsr.ac.in" target="_blank" rel="noopener" >NIT Jamshedpur</a>.
-- 👨‍💻 I did some project you can check <a href="http://soshubh.xyz/#work" target="_blank" rel="noopener" >here</a>.
+- 👨‍💻 I did some project you can check <a href=" https://soshubh.github.io/#work" target="_blank" rel="noopener" >here</a>.
 <!-- - [here](http://soshubh.xyz/#work). -->
-
-- 📫 For contact <a href="http://soshubh.xyz/#contact" target="_blank" rel="noopener" >click here</a>.
+- 📫 For contact <a href=" https://soshubh.github.io/#contact" target="_blank" rel="noopener" >click here</a>.
 <!-- - [click here](http://soshubh.xyz/#contact). -->
 
 
@@ -27,9 +26,9 @@
 <!-- <hr> -->
 
 - 🌐 Web Development 
-   
+- 
    <a href="https://soshubh.netlify.app/">Shubhanshu Singh</a>
-   <a href="http://soshubh.xyz">SHUBH SINGH</a>
+   <br><a href="http://soshubh.xyz">SHUBH SINGH</a>
    <br><a href="https://how-to-not-do-nimct.glitch.me">HTNDNIMCET</a>
 <!--    <br><a href="https://shubhanshusingh.live/">Shubhanshu Singh</a> -->
    
