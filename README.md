@@ -15,7 +15,6 @@
 - 🎀 I'm a student.
 - 🌱 Currently styding at <a href="http://www.nitjsr.ac.in" target="_blank" rel="noopener" >NIT Jamshedpur</a>.
 - 👨‍💻 I did some project you can check <a href=" https://soshubh.github.io/#work" target="_blank" rel="noopener" >here</a>.
-<!-- - [here](http://soshubh.xyz/#work). -->
 - 📫 For contact <a href=" https://soshubh.github.io/#contact" target="_blank" rel="noopener" >click here</a>.
 <!-- - [click here](http://soshubh.xyz/#contact). -->
 
