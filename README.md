@@ -5,7 +5,7 @@
 <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
 
 <!-- <img src="https://media.giphy.com/media/MM0Jrc8BHKx3y/giphy.gif" width="400" ><br> -->
-<p align="center"> <kbd><img src="https://media.giphy.com/media/MM0Jrc8BHKx3y/giphy.gif"/></kbd> </p>
+<p align="center"> <kbd><img src="https://media.giphy.com/media/MM0Jrc8BHKx3y/giphy.gif"/ width="400" ></kbd> </p>
 
 <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
 
