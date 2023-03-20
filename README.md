@@ -84,7 +84,7 @@
 <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
 
 <h2 align="center">Tool's</h2>
- 
+ <img height="45" src="icon/css-coding.png">
  <p align="center">
   <code><img height="45" src="icon/css-coding.png"></code>
   <code><img height="45" src="icon/html (1).png"></code>
