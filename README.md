@@ -5,7 +5,7 @@
 <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
 
 <!-- <img src="https://media.giphy.com/media/MM0Jrc8BHKx3y/giphy.gif" width="400" ><br> -->
-<p align="center"> <kbd><img src="https://github.com/soshubh/soshubh/blob/main/icon/Funny.gif"/  ></kbd> </p>
+<p align="center"> <kbd><img src="https://github.com/soshubh/soshubh/blob/main/icon/Funny.gif"/></kbd> </p>
 
 <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
 
@@ -84,7 +84,7 @@
 <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
 
 <h2 align="center">Tool's</h2>
- <img height="45" src="icon/css-coding.png">
+
  <p align="center">
   <code><img height="45" src="icon/css-coding.png"></code>
   <code><img height="45" src="icon/html (1).png"></code>
