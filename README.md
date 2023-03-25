@@ -179,4 +179,3 @@
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) -->
 
 <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
-![snake animation](https://github.com/soshubh/soshubh/blob/output/github-contribution-grid-snake2.svg)
