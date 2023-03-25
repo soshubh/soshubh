@@ -170,8 +170,10 @@
 
 <h2 align="center">Random Quote</h2>
 
-<p  align="center"><img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
-    ><img align="center" src="https://spotify-recently-played-readme.vercel.app/api?user=31bdg4lvbp3rnggd24zy35w7mvzm&count={count}">
+<p  align="center">
+    <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+    <br/>
+    <img align="center" src="https://spotify-recently-played-readme.vercel.app/api?user=31bdg4lvbp3rnggd24zy35w7mvzm&count=5"/>
 </p>
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) -->
 
