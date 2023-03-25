@@ -133,6 +133,10 @@
  </a>   
 </p>
 
+
+<p align="center"><img src="https://github.com/soshubh/soshubh/blob/main/icon/Githubut.png"/> </p>
+
+
 <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
 
 <!-- ![soshubh's github stats](https://github-readme-stats.vercel.app/api?username=soshubh&show_icons=true&include_all_commits=true&theme=swift&hide_border=true) -->
@@ -147,7 +151,6 @@
 <!-- | ------------- | ------------- | -->
 </p>
 
-<p align="center"><img src="https://github.com/soshubh/soshubh/blob/main/icon/Githubut.png"/> </p>
 
 <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->   
 <!-- <p> -->
