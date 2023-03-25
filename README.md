@@ -131,8 +131,10 @@
 <!-- ![soshubh's github stats](https://github-readme-stats.vercel.app/api?username=soshubh&show_icons=true&include_all_commits=true&theme=swift&hide_border=true) -->
 <h2 align="center">Language's and Stat's</h2>
 
+<p  align="center">
 | <a href="https://github.com/soshubh/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=soshubh&include_all_commits=true&count_private=true&show_icons=true&line_height=24&title_color=1363DF&icon_color=47B5FF&text_color=DFF6FF&bg_color=0,000000,130F40" alt="Shubh's github stats" /></a> | <a href="https://github.com/soshubh/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soshubh&show_icons=true&locale=en&layout=compact&title_color=1363DF&icon_color=2234AE&text_color=DFF6FF&bg_color=0,000000,130F40" /></a> |
 | ------------- | ------------- |
+</p>
 
 <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->   
 <!-- <p> -->
