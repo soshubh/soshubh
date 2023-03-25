@@ -175,4 +175,8 @@
 
 <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31bdg4lvbp3rnggd24zy35w7mvzm)
+<div align="center">
+ <a href="https://open.spotify.com/user/soshubh">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31bdg4lvbp3rnggd24zy35w7mvzm&count={count}"/>
+ </a>
+</div>
