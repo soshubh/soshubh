@@ -135,7 +135,8 @@
 | ------------- | ------------- |
 
 <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->   
-## 🏆 GitHub Trophies
+<!-- <p> -->
+<!-- ## 🏆 GitHub Trophies -->
 <!-- <h2 align="center">GitHub Trophies</h2> -->
 ![](https://github-profile-trophy.vercel.app/?username=soshubh&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
