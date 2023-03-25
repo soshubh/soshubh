@@ -175,5 +175,4 @@
 
 <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31ljrc3l6itpiluel7ftezjn564i)
-
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31bdg4lvbp3rnggd24zy35w7mvzm)
