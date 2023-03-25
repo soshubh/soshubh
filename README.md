@@ -145,12 +145,10 @@
 <!-- ## 🏆 GitHub Trophies -->
 <h2 align="center">GitHub Trophies</h2>
 <!-- ![](https://github-profile-trophy.vercel.app/?username=soshubh&theme=radical&no-frame=false&no-bg=false&margin-w=4)  -->
-<p  align="center"><kbd><img align="center" src="https://github-profile-trophy.vercel.app/?username=soshubh&theme=radical&no-frame=false&no-bg=false&margin-w=4"></kbd></p>
+<p  align="center"><img align="center" src="https://github-profile-trophy.vercel.app/?username=soshubh&theme=radical&no-frame=false&no-bg=false&margin-w=4"></p>
 
 <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->   
 <h2 align="center">Project's</h2>
-
-
 
 | ![soshubh's github stats](https://github-readme-stats.vercel.app/api/pin/?username=soshubh&repo=shubh&cache_seconds=86400&show_icons=true&locale=en&layout=compact&title_color=1363DF&icon_color=2234AE&text_color=DFF6FF&bg_color=0,000000,130F40) ![soshubh's github stats](https://github-readme-stats.vercel.app/api/pin/?username=soshubh&repo=Ist-sem-assignment&cache_seconds=86400show_icons=true&locale=en&layout=compact&title_color=1363DF&icon_color=2234AE&text_color=DFF6FF&bg_color=0,000000,130F40) | ![soshubh's github stats](https://github-readme-stats.vercel.app/api/pin/?username=soshubh&repo=CodeForces&cache_seconds=86400&show_icons=true&locale=en&layout=compact&title_color=1363DF&icon_color=2234AE&text_color=DFF6FF&bg_color=0,000000,130F40) ![soshubh's github stats](https://github-readme-stats.vercel.app/api/pin/?username=soshubh&repo=shubhanshusingh.live&cache_seconds=86400&show_icons=true&locale=en&layout=compact&title_color=1363DF&icon_color=2234AE&text_color=DFF6FF&bg_color=0,000000,130F40) |
 | ------------- | ------------- |
@@ -158,6 +156,9 @@
  
 <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
 
-### ✍️ Random Dev Quote
+<h2 align="center">Random Dev Quote</h2>
+
 <p  align="center"><img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"></p>
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) -->
+
+<!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
