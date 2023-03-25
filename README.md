@@ -157,3 +157,7 @@
 
  
 <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
+
+### ✍️ Random Dev Quote
+<p  align="center"><kbd><img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"></kbd></p>
+<!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) -->
