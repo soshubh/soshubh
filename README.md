@@ -175,7 +175,7 @@
     <br/>
     <img align="center" src="https://spotify-recently-played-readme.vercel.app/api?user=31bdg4lvbp3rnggd24zy35w7mvzm&count=5"/>
     <br/>
-    <img align="center" src="https://github.com/<USERNAME>/<USERNAME>/blob/output/github-contribution-grid-snake.svg">
+    <img align="center" src="https://github.com/soshubh/soshubh/blob/output/github-contribution-grid-snake.svg">
 
     
 </p>
