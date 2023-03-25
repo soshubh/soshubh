@@ -174,3 +174,6 @@
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) -->
 
 <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31ljrc3l6itpiluel7ftezjn564i)
+
