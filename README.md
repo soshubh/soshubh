@@ -156,7 +156,7 @@
  
 <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
 
-<h2 align="center">Random Dev Quote</h2>
+<h2 align="center">Random Quote</h2>
 
 <p  align="center"><img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"></p>
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) -->
