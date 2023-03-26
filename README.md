@@ -19,8 +19,8 @@
 
 <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
 <details>
-<summary align="center"><h3> A Developer [ WEB / APP / BOT ] </h3></summary>
-<!-- <hr> -->
+<summary align="center"><h2> A Developer [ WEB / APP / BOT ] </h2></summary>
+ <hr> 
 
 - 🎀 I'm a student.
 - ✨ Creating bugs since 2019
@@ -31,9 +31,9 @@
 <!-- - [click here](http://soshubh.xyz/#contact). -->
 </details>
 <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
-
-<h2 align="center">Work On Development</h2>
-<!-- <hr> -->
+<details>
+<summary align="center"><h2>Work On Development</h2></summary>
+ <hr> 
 
 - 🌐 Web Development
 
@@ -51,7 +51,8 @@
  - 🖼️ UI Design
  
    <a href="https://www.figma.com/proto/BER4LIkHMHwebRGU5gtNvH/Untitled-(Copy)?page-id=0%3A1&node-id=42%3A2&viewport=193%2C316%2C0.16&scaling=scale-down&starting-point-node-id=42%3A2">Post Your Thoughts</a>
- 
+
+<details>
  <br>
  
 <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
