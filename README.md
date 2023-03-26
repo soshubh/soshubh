@@ -17,8 +17,8 @@
 <p align="center"> <kbd><img src="https://github.com/soshubh/soshubh/blob/main/icon/Funny1.gif"/></kbd> </p>
 <!-- <img src="https://github.com/soshubh/soshubh/blob/main/icon/Funny.gif"/> -->
 
-
 <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
+___
 <details>
 <summary> <h2 align="center">A Developer [ WEB / APP / BOT ] </h2></summary>
 <!-- <hr> -->
