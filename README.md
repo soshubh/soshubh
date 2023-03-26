@@ -19,7 +19,10 @@
 
 <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
 <details>
-<summary align="center"><h2> A Developer [ WEB / APP / BOT ] </h2></summary>
+<summary align="center">
+<!--<h2> A Developer [ WEB / APP / BOT ] </h2>-->
+<img src="https://github.com/soshubh/soshubh/blob/main/icon/About.png"/>
+</summary>
 
 - 🎀 I'm a student.
 - ✨ Creating bugs since 2019
