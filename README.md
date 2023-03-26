@@ -2,15 +2,13 @@
     <img src="https://github.com/soshubh/soshubh/blob/main/icon/Github.png"/>
 </p>
 <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
-
-<h1 align="center">
-<!--     Hi 👋, I'm Shubh -->
-    <!-- <img src="https://media.giphy.com/media/R6gvnAxj2ISzJdbA63/giphy.gif" width="50">-->
+<!-- <h1 align="center">
+  Hi 👋, I'm Shubh 
+    <img src="https://media.giphy.com/media/R6gvnAxj2ISzJdbA63/giphy.gif" width="50"> -->
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=F0F0F0&width=380&height=45&lines=A+Web+Developer;UI\UX+Designer&center=true"></a>
-    
+    <img src="https://readme-typing-svg.herokuapp.com?color=F0F0F0&width=380&height=45&lines=A+Web+Developer;UI\UX+Designer&center=true"/>
 </p>
-</h1>
+<!--</h1>-->
 
 
 <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
