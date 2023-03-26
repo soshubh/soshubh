@@ -33,7 +33,8 @@
  
 <details>
 <summary align="center"><h2>Work On Development</h2></summary>
-<p>
+
+
 - 🌐 Web Development
 
    <a href="https://soshubh.netlify.app/">Shubhanshu Singh</a>
@@ -50,13 +51,14 @@
  - 🖼️ UI Design
  
    <a href="https://www.figma.com/proto/BER4LIkHMHwebRGU5gtNvH/Untitled-(Copy)?page-id=0%3A1&node-id=42%3A2&viewport=193%2C316%2C0.16&scaling=scale-down&starting-point-node-id=42%3A2">Post Your Thoughts</a>
-</p>
+
 </details>
  
  
 <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
 
-<h2 align="center">Skill</h2>
+<details>
+<summary align="center"><h2 >Skill</h2></summary>
 
 <p align="center">
   <a href="https://img.shields.io/badge/ProblemSolving-★★★★★★-yellow">
@@ -91,10 +93,11 @@
    <img alt="Python-★★★☆☆-red" src="https://img.shields.io/badge/Python-★★★☆☆-red" />
    </a>
 </p>
-
+</details>
 <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
 
-<h2 align="center">Tool's</h2>
+<details>
+<summary align="center"<h2 >Tool's</h2></summary>
 
  <p align="center">
   <code><img height="45" src="icon/css-coding.png"></code>
@@ -108,6 +111,7 @@
 <!--   <code><img height="45" src="icon/PngItem_312155.png"></code>  -->
  
 </p>
+<details>
 
 <!-- ----------------------------------------------------------------------------------------------------------------------------------------->
 
