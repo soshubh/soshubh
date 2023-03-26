@@ -32,7 +32,7 @@
 
  
 <details>
-<summary align="center"><h2>Work On Development</h2></summary>
+<summary align="center"><h2> Work On Development</h2></summary>
 
 
 - 🌐 Web Development
@@ -58,7 +58,7 @@
 <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
 
 <details>
-<summary align="center"><h2 >Skill</h2></summary>
+<summary align="center"><h2 > Skill</h2></summary>
 
 <p align="center">
   <a href="https://img.shields.io/badge/ProblemSolving-★★★★★★-yellow">
@@ -97,7 +97,7 @@
 <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
 
 <details>
-<summary align="center"<h2 >Tool's</h2></summary>
+<summary align="center"<h2> Tool's</h2></summary>
 
  <p align="center">
   <code><img height="45" src="icon/css-coding.png"></code>
@@ -111,11 +111,12 @@
 <!--   <code><img height="45" src="icon/PngItem_312155.png"></code>  -->
  
 </p>
-<details>
+</details>
 
 <!-- ----------------------------------------------------------------------------------------------------------------------------------------->
 
-<h2 align="center">Social & Hobbies</h2>
+details>
+<summary align="center"<h2> <h2> Social & Hobbies</h2></summary>
 
 <p align="center">
  <a href="https://www.linkedin.com/in/shubhanshu-singh-b552511b7">
@@ -144,7 +145,7 @@
 
 <p align="center"><img src="https://github.com/soshubh/soshubh/blob/main/icon/Githubut.png"/> </p>
 
-
+</details>
 <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
 
 <!-- ![soshubh's github stats](https://github-readme-stats.vercel.app/api?username=soshubh&show_icons=true&include_all_commits=true&theme=swift&hide_border=true) -->
