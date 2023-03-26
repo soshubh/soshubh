@@ -52,7 +52,7 @@
  
    <a href="https://www.figma.com/proto/BER4LIkHMHwebRGU5gtNvH/Untitled-(Copy)?page-id=0%3A1&node-id=42%3A2&viewport=193%2C316%2C0.16&scaling=scale-down&starting-point-node-id=42%3A2">Post Your Thoughts</a>
 
-<details>
+</details>
  <br>
  
 <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
