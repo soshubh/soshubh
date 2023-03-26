@@ -12,13 +12,12 @@
 
 
 <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
----
-___
-***
+
 <!-- <img src="https://media.giphy.com/media/MM0Jrc8BHKx3y/giphy.gif" width="400" ><br> -->
 <p align="center"> <kbd><img src="https://github.com/soshubh/soshubh/blob/main/icon/Funny1.gif"/></kbd> </p>
 <!-- <img src="https://github.com/soshubh/soshubh/blob/main/icon/Funny.gif"/> -->
 
+<details>
 <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
 
 <h2 align="center">A Developer [ WEB / APP / BOT ]</h2>
@@ -29,7 +28,7 @@ ___
 - 👨‍💻 I did some project you can check <a href=" https://soshubh.github.io/#work" target="_blank" rel="noopener" >here</a>.
 - 📫 For contact <a href=" https://soshubh.github.io/#contact" target="_blank" rel="noopener" >click here</a>.
 <!-- - [click here](http://soshubh.xyz/#contact). -->
-
+</details>
 <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
 
 <h2 align="center">Work On Development</h2>
