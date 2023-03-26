@@ -97,7 +97,7 @@
 <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
 
 <details>
-<summary align="center"<h2> Tool's</h2></summary>
+<summary align="center"><h2> Tools</h2></summary>
 
  <p align="center">
   <code><img height="45" src="icon/css-coding.png"></code>
@@ -116,7 +116,7 @@
 <!-- ----------------------------------------------------------------------------------------------------------------------------------------->
 
 <details>
-<summary align="center"<h2> <h2> Social & Hobbies</h2></summary>
+<summary align="center"><h2> Social & Hobbies</h2></summary>
 
 <p align="center">
  <a href="https://www.linkedin.com/in/shubhanshu-singh-b552511b7">
