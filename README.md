@@ -34,8 +34,9 @@
  <hr> 
 
 <details>
+<h2 align="center">
 <summary align="center"><h2>Work On Development</h2></summary>
-
+</h2>
 
 - 🌐 Web Development
 
