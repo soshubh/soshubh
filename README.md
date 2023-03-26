@@ -17,10 +17,10 @@
 <p align="center"> <kbd><img src="https://github.com/soshubh/soshubh/blob/main/icon/Funny1.gif"/></kbd> </p>
 <!-- <img src="https://github.com/soshubh/soshubh/blob/main/icon/Funny.gif"/> -->
 
-<details>
-<!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
 
-<h2 align="center">A Developer [ WEB / APP / BOT ]</h2>
+<!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
+<details>
+<h2 align="center"><summary> A Developer [ WEB / APP / BOT ]</summary></h2>
 <!-- <hr> -->
 
 - 🎀 I'm a student.
