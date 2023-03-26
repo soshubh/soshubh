@@ -19,7 +19,7 @@
 
 <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
 <details>
-<summary align="center"> A Developer [ WEB / APP / BOT ] </summary>
+<summary align="center"><h3> A Developer [ WEB / APP / BOT ] </h3></summary>
 <!-- <hr> -->
 
 - 🎀 I'm a student.
