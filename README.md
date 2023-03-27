@@ -1,6 +1,6 @@
 <p align="center">
 <!--     <img src="https://github.com/soshubh/soshubh/blob/main/icon/Github.png"/> -->
-      <img src="https://github.com/soshubh/soshubh/blob/main/icon/shubhop.png"/>
+      <img src="https://github.com/soshubh/soshubh/blob/main/icon/first.png"/>
 </p>
 <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
 <!-- <h1 align="center">
@@ -22,7 +22,7 @@
 
 <!--<h2> A Developer [ WEB / APP / BOT ] </h2>-->
 <p align="center">
-<img src="https://github.com/soshubh/soshubh/blob/main/icon/abouttp.png"/>
+<img src="https://github.com/soshubh/soshubh/blob/main/icon/1about.png"/>
 </p>
 
 - 🎀 I'm a student.
@@ -150,7 +150,7 @@
 </p>
 </details>
 
-<p align="center"><img src="https://github.com/soshubh/soshubh/blob/main/icon/btop.png"/> </p>
+<p align="center"><img src="https://github.com/soshubh/soshubh/blob/main/icon/last.png"/> </p>
 
 
 <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
