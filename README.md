@@ -150,7 +150,7 @@
 </p>
 </details>
 
-<p align="center"><img src="https://github.com/soshubh/soshubh/blob/main/icon/Rectangle%202.png"/> </p>
+<p align="center"><img src="https://github.com/soshubh/soshubh/blob/main/icon/Bottom.png"/> </p>
 
 
 <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
