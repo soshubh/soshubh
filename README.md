@@ -36,12 +36,6 @@
 <!--<details>
 <summary align="center"><h2> Work On Development</h2></summary>-->
 <p align="center">
-
-<img src="https://github.com/soshubh/soshubh/blob/main/icon/workop.png"/>
-    <br>
-    
-  <img src="https://github.com/soshubh/soshubh/blob/main/icon/workt.png"/>
-  <br>
     <img src="https://github.com/soshubh/soshubh/blob/main/icon/worktp.png"/>
 </p>
 
