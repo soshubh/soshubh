@@ -1,6 +1,6 @@
 <p align="center">
 <!--     <img src="https://github.com/soshubh/soshubh/blob/main/icon/Github.png"/> -->
-      <img src="https://github.com/soshubh/soshubh/blob/main/icon/imshubh.png"/>
+      <img src="https://github.com/soshubh/soshubh/blob/main/icon/shubhop.png"/>
 </p>
 <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
 <!-- <h1 align="center">
