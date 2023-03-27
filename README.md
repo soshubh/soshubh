@@ -20,7 +20,7 @@
 
 <!--<h2> A Developer [ WEB / APP / BOT ] </h2>-->
 <p align="center">
-<img src="https://github.com/soshubh/soshubh/blob/main/icon/aboutop.png"/>
+<img src="https://github.com/soshubh/soshubh/blob/main/icon/abouttp.png"/>
 </p>
 
 - 🎀 I'm a student.
