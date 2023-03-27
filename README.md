@@ -24,6 +24,7 @@
 <p align="center">
 <img src="https://github.com/soshubh/soshubh/blob/main/icon/1about.png"/>
 </p>
+
 - 🎀 I'm a student.
 - ✨ Creating bugs since 2019
 - 🌱 Currently styding at <a href="http://www.nitjsr.ac.in" target="_blank" rel="noopener" >NIT Jamshedpur</a>.
