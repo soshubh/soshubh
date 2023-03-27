@@ -34,8 +34,8 @@
 
  
 <!--<details>
-<summary align="center"><h2> Work On Development</h2></summary>
-<p align="center">-->
+<summary align="center"><h2> Work On Development</h2></summary>-->
+<p align="center">
 
 <img src="https://github.com/soshubh/soshubh/blob/main/icon/workop.png"/>
 </p>
