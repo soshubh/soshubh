@@ -1,5 +1,6 @@
 <p align="center">
     <img src="https://github.com/soshubh/soshubh/blob/main/icon/Github.png"/>
+      <img src="https://github.com/soshubh/soshubh/blob/main/icon/imshubh.png"/>
 </p>
 <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
 <!-- <h1 align="center">
@@ -8,6 +9,7 @@
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?color=F0F0F0&width=380&height=45&lines=A+Web+Developer;UI\UX+Designer&center=true"/>
 </p>
+
 <!--</h1>-->
 
 <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
