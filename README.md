@@ -38,9 +38,11 @@
 <p align="center">
 
 <img src="https://github.com/soshubh/soshubh/blob/main/icon/workop.png"/>
+    <br>
     
-    <br/>
   <img src="https://github.com/soshubh/soshubh/blob/main/icon/workt.png"/>
+  <br>
+    <img src="https://github.com/soshubh/soshubh/blob/main/icon/worktp.png"/>
 </p>
 
 
