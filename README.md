@@ -1,6 +1,9 @@
-<p align="center">
-<!--     <img src="https://github.com/soshubh/soshubh/blob/main/icon/Github.png"/> -->
+<!--  <p align="center">
+   <img src="https://github.com/soshubh/soshubh/blob/main/icon/Github.png"/> 
       <img src="https://github.com/soshubh/soshubh/blob/main/icon/first.png"/>
+</p>-->
+<p align="center">
+  <a href="https://github.com/soshubh"> <img src="icon/shubhsvg.svg"/> </a>
 </p>
 <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
 <!-- <h1 align="center">
