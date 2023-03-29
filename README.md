@@ -24,9 +24,11 @@
 <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
 
 <!--<h2> A Developer [ WEB / APP / BOT ] </h2>-->
+<details>
+  <summary align="center">
 <p align="center">
 <img src="https://github.com/soshubh/soshubh/blob/main/icon/1about.png"/>
-</p>
+</p></summary >
 
 - 🎀 I'm a student.
 - ✨ Creating bugs since 2019
@@ -35,15 +37,19 @@
 - 📫 For contact <a href="https://soshubh.github.io/#contact" target="_blank" rel="noopener" >click here</a>.
 - 🎯 Goals: Earn in dollar 💵/ Live in a cold place ❄.
 <!-- - [click here](http://soshubh.xyz/#contact). -->
-
+</details>
+   
 <br>
  
 <!--<details>
 <summary align="center"><h2> Work On Development</h2></summary>-->
+<details>
+  <summary align="center">
 <p align="center">
     <img src="https://github.com/soshubh/soshubh/blob/main/icon/1Dev.png"/>
-</p>
+</p> </summary >
 
+   
 
 - 🌐 Web Development
 
@@ -64,6 +70,7 @@
 
 <!--</details>-->
  
+</details>
  
 <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
 
