@@ -1,7 +1,7 @@
-<!--  <p align="center">
+  <p align="center">
    <img src="https://github.com/soshubh/soshubh/blob/main/icon/Github.png"/> 
       <img src="https://github.com/soshubh/soshubh/blob/main/icon/first.png"/>
-</p>-->
+</p>
 <p align="center">
   <a href="https://github.com/soshubh"> <img src="icon/shubhsvg.svg"/> </a>
 </p>
@@ -26,37 +26,27 @@
 <!--<h2> A Developer [ WEB / APP / BOT ] </h2>-->
 
 <p align="center">
-<img src="https://github.com/soshubh/soshubh/blob/main/Assets/About.svg"/>
- </p> 
-
-
+   <img src="https://github.com/soshubh/soshubh/blob/main/Assets/About.svg"/>
+</p> 
+ 
 - 🎀 I'm a student.
-- ✨ Creating bugs since 2019
+- ✨ Creating bugs since 2020.
 - 🌱 Currently styding at <a href="http://www.nitjsr.ac.in" target="_blank" rel="noopener" >NIT Jamshedpur</a>.
 - 👨‍💻 I did some project you can check <a href="https://soshubh.github.io/#work" target="_blank" rel="noopener" >here</a>.
 - 📫 For contact <a href="https://soshubh.github.io/#contact" target="_blank" rel="noopener" >click here</a>.
 - 🎯 Goals: Earn in dollar 💵/ Live in a cold place ❄.
-<!-- - [click here](http://soshubh.xyz/#contact). -->
 
-   
-<br>
- 
-<!--<details>
-<summary align="center"><h2> Work On Development</h2></summary>-->
 
+<!-- ---------------------------------------------------------------------------------------- -->
 <p align="center"> 
     <img src="https://github.com/soshubh/soshubh/blob/main/Assets/Development.svg"/>
-</p> 
-
-
-   
+</p>
 
 - 🌐 Web Development
 
    <a href="https://soshubh.netlify.app/">Shubhanshu Singh</a>
    <br><a href="http://soshubh.xyz">SHUBH SINGH</a>
    <br><a href="https://how-to-not-do-nimct.glitch.me">HTNDNIMCET</a>
-<!--    <br><a href="https://shubhanshusingh.live/">Shubhanshu Singh</a> -->
    
 - 🤖 Bot Development
 
@@ -68,9 +58,6 @@
  
    <a href="https://www.figma.com/proto/BER4LIkHMHwebRGU5gtNvH/Untitled-(Copy)?page-id=0%3A1&node-id=42%3A2&viewport=193%2C316%2C0.16&scaling=scale-down&starting-point-node-id=42%3A2">Post Your Thoughts</a>
 
-<!--</details>-->
- 
-</details>
  
 <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
 
