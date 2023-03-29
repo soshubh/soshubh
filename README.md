@@ -55,10 +55,11 @@
    <a href="https://www.figma.com/proto/BER4LIkHMHwebRGU5gtNvH/Untitled-(Copy)?page-id=0%3A1&node-id=42%3A2&viewport=193%2C316%2C0.16&scaling=scale-down&starting-point-node-id=42%3A2">Post Your Thoughts</a>
 
  <br>
+ 
 <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
-
-<details>
-<summary align="center"><h2 > Skill</h2></summary>
+<p align="center"> 
+    <img src="https://github.com/soshubh/soshubh/blob/main/Assets/Skill.svg"/>
+</p>
 
 <p align="center">
   <a href="https://img.shields.io/badge/ProblemSolving-★★★★★★-yellow">
@@ -79,25 +80,30 @@
    <img alt="JAVA-★★★★☆-yellow" src="https://img.shields.io/badge/JAVA-★★★★☆-yellow" />
   </a>
    
-   
   <a href="https://img.shields.io/badge/HTML-★★★★★-brightgreen">
    <img alt="HTML-★★★★★-brightgreen" src="https://img.shields.io/badge/HTML-★★★★★-brightgreen" />
   </a>
+  
   <a href="https://img.shields.io/badge/CSS-★★★★☆-brightgreen">
    <img alt="CSS-★★★★☆-brightgreen" src="https://img.shields.io/badge/CSS-★★★★☆-brightgreen" />
   </a>
+  
   <a href="https://img.shields.io/badge/JS-★★★☆☆-brightgreen">
    <img alt="JS-★★★☆☆-brightgreen" src="https://img.shields.io/badge/JS-★★★☆☆-brightgreen" />
   </a>
+  
   <a href="https://img.shields.io/badge/Python-★★★☆☆-red">
    <img alt="Python-★★★☆☆-red" src="https://img.shields.io/badge/Python-★★★☆☆-red" />
    </a>
 </p>
-</details>
+
+<br>
+
 <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
 
-<details>
-<summary align="center"><h2> Tools</h2></summary>
+<p align="center"> 
+    <img src="https://github.com/soshubh/soshubh/blob/main/Assets/Tools.svg"/>
+</p>
 
  <p align="center">
   <code><img height="45" src="icon/css-coding.png"></code>
@@ -111,7 +117,7 @@
 <!--   <code><img height="45" src="icon/PngItem_312155.png"></code>  -->
  
 </p>
-</details>
+<br>
 
 <!-- ----------------------------------------------------------------------------------------------------------------------------------------->
 
