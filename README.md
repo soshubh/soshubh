@@ -121,8 +121,9 @@
 
 <!-- ----------------------------------------------------------------------------------------------------------------------------------------->
 
-<details>
-<summary align="center"><h2> Social & Hobbies</h2></summary>
+<p align="center"> 
+    <img src="https://github.com/soshubh/soshubh/blob/main/Assets/Social.svg"/>
+</p>
 
 <p align="center">
  <a href="https://www.linkedin.com/in/shubhanshu-singh-b552511b7">
@@ -147,7 +148,7 @@
    <img alt="Shubhanshu" src="https://img.shields.io/github/followers/soshubh?label=follow&style=social" />
  </a>   
 </p>
-</details>
+
 
 <p align="center"><img src="https://github.com/soshubh/soshubh/blob/main/icon/last.png"/> </p>
 
