@@ -27,7 +27,7 @@
 <details>
   <summary>
 <!-- <p align="center"> -->
-<img src="https://github.com/soshubh/soshubh/blob/main/icon/1about.png"/>
+<img src="https://github.com/soshubh/soshubh/blob/main/Assets/About.svg"/>
 <!-- </p> -->
    </summary >
 
