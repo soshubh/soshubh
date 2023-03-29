@@ -26,9 +26,10 @@
 <!--<h2> A Developer [ WEB / APP / BOT ] </h2>-->
 <details>
   <summary align="center">
-<p align="center">
+<!-- <p align="center"> -->
 <img src="https://github.com/soshubh/soshubh/blob/main/icon/1about.png"/>
-</p></summary >
+<!-- </p> -->
+   </summary >
 
 - 🎀 I'm a student.
 - ✨ Creating bugs since 2019
@@ -45,9 +46,10 @@
 <summary align="center"><h2> Work On Development</h2></summary>-->
 <details>
   <summary align="center">
-<p align="center">
+<!-- <p align="center"> -->
     <img src="https://github.com/soshubh/soshubh/blob/main/icon/1Dev.png"/>
-</p> </summary >
+<!-- </p>  -->
+   </summary >
 
    
 
