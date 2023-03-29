@@ -25,7 +25,7 @@
 
 <!--<h2> A Developer [ WEB / APP / BOT ] </h2>-->
 <details>
-  <summary align="center">
+  <summary>
 <!-- <p align="center"> -->
 <img src="https://github.com/soshubh/soshubh/blob/main/icon/1about.png"/>
 <!-- </p> -->
@@ -45,7 +45,7 @@
 <!--<details>
 <summary align="center"><h2> Work On Development</h2></summary>-->
 <details>
-  <summary align="center">
+  <summary>
 <!-- <p align="center"> -->
     <img src="https://github.com/soshubh/soshubh/blob/main/icon/1Dev.png"/>
 <!-- </p>  -->
