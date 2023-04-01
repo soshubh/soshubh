@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://github.com/soshubh"> <img src="https://github.com/soshubh/soshubh/blob/main/Assets/shubh.svg"/> </a>
-</p>
+  <a href="https://github.com/soshubh"> <img src="icon/shubhsvg.svg"/> </a>
+ </p>
 <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
 
 <p align="center">
