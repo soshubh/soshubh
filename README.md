@@ -17,9 +17,7 @@
 <!-- <img src="https://github.com/soshubh/soshubh/blob/main/icon/Funny.gif"/> -->
 
 <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
-
 <!--<h2> A Developer [ WEB / APP / BOT ] </h2>-->
-
 <p align="center">
    <img src="https://github.com/soshubh/soshubh/blob/main/Assets/About.svg"/>
 </p> 
