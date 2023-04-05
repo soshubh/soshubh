@@ -180,10 +180,8 @@
 
 <p  align="center">
   <kbd>
-    <a href="https://github.com/soshubh/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=soshubh&repo=shubh&cache_seconds=86400&show_icons=true&locale=en&layout=compact&title_color=1363DF&icon_color=2234AE&text_color=DFF6FF&bg_color=0,000000,130F40" /></a> 
-    
+    <a href="https://github.com/soshubh/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=soshubh&repo=shubh&cache_seconds=86400&show_icons=true&locale=en&layout=compact&title_color=1363DF&icon_color=2234AE&text_color=DFF6FF&bg_color=0,000000,130F40" /></a
     <a href="https://github.com/soshubh/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=soshubh&repo=Ist-sem-assignment&cache_seconds=86400show_icons=true&locale=en&layout=compact&title_color=1363DF&icon_color=2234AE&text_color=DFF6FF&bg_color=0,000000,130F40"/></a>
-    
     <a href="https://github.com/soshubh/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=soshubh&repo=CodeForces&cache_seconds=86400&show_icons=true&locale=en&layout=compact&title_color=1363DF&icon_color=2234AE&text_color=DFF6FF&bg_color=0,000000,130F40" /></a> 
     <a href="https://github.com/soshubh/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=soshubh&repo=shubhanshusingh.live&cache_seconds=86400&show_icons=true&locale=en&layout=compact&title_color=1363DF&icon_color=2234AE&text_color=DFF6FF&bg_color=0,000000,130F40" /></a> 
   </kbd>
