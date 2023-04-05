@@ -177,11 +177,11 @@
 <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->   
 <h2 align="center">Project's</h2>
 
-| ------------- | ------------- |
+
 | ![soshubh's github stats](https://github-readme-stats.vercel.app/api/pin/?username=soshubh&repo=shubh&cache_seconds=86400&show_icons=true&locale=en&layout=compact&title_color=1363DF&icon_color=2234AE&text_color=DFF6FF&bg_color=0,000000,130F40) | ![soshubh's github stats](https://github-readme-stats.vercel.app/api/pin/?username=soshubh&repo=Ist-sem-assignment&cache_seconds=86400show_icons=true&locale=en&layout=compact&title_color=1363DF&icon_color=2234AE&text_color=DFF6FF&bg_color=0,000000,130F40) |
 | ![soshubh's github stats](https://github-readme-stats.vercel.app/api/pin/?username=soshubh&repo=CodeForces&cache_seconds=86400&show_icons=true&locale=en&layout=compact&title_color=1363DF&icon_color=2234AE&text_color=DFF6FF&bg_color=0,000000,130F40) | ![soshubh's github stats](https://github-readme-stats.vercel.app/api/pin/?username=soshubh&repo=shubhanshusingh.live&cache_seconds=86400&show_icons=true&locale=en&layout=compact&title_color=1363DF&icon_color=2234AE&text_color=DFF6FF&bg_color=0,000000,130F40) |
 
-
+| ------------- | ------------- |
  
 <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
 
