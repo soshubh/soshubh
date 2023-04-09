@@ -3,9 +3,11 @@
  </p>
 
 <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
+
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?color=F0F0F0&width=380&height=45&lines=A+Web+Developer;UI\UX+Designer&center=true"/>
 </p>
+
 <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
 
 <!-- <img src="https://media.giphy.com/media/MM0Jrc8BHKx3y/giphy.gif" width="400" ><br> -->
