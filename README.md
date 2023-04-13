@@ -29,7 +29,6 @@
 <br>
 
 <!-- ---------------------------------------------------------------------------------------- -->
-
 <p align="center"> 
     <img src="https://github.com/soshubh/soshubh/blob/main/Assets/Development.svg"/>
 </p>
