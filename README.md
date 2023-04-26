@@ -34,6 +34,11 @@
     <img src="https://github.com/soshubh/soshubh/blob/main/Assets/Development.svg"/>
 </p>
 
+
+| 🌐 Web Development | 🤖 Bot Development | 🖼️ UI Design |
+| ----------- | ----------- | ----------- |
+| <a href="https://soshubh.netlify.app/">Shubhanshu Singh</a> | <a href="http://soshubh.xyz">SHUBH SINGH</a> | <a href="https://how-to-not-do-nimct.glitch.me">HTNDNIMCET</a> |
+
 - 🌐 Web Development
 
    <a href="https://soshubh.netlify.app/">Shubhanshu Singh</a>
