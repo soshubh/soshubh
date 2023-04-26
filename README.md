@@ -34,13 +34,17 @@
     <img src="https://github.com/soshubh/soshubh/blob/main/Assets/Development.svg"/>
 </p>
 
+<p align="center"> 
+
 
 | 🌐 Web Development | 🤖 Bot Development | 🖼️ UI Design |
 | ----------- | ----------- | ----------- |
 | <a href="https://soshubh.netlify.app/">Shubhanshu Singh</a> | <a href="http://t.me/nitjamshedpurbot">NIT Jamshedpur</a> | <a href="https://www.figma.com/proto/BER4LIkHMHwebRGU5gtNvH/Untitled-(Copy)?page-id=0%3A1&node-id=42%3A2&viewport=193%2C316%2C0.16&scaling=scale-down&starting-point-node-id=42%3A2">Post Your Thoughts</a> |
 | <a href="http://soshubh.xyz">SHUBH SINGH</a> | <a href="http://t.me/so_shubh_bot">SHUBH SINGH</a> | <a href="https://www.figma.com/proto/v6UO57nMLsFBIVsB6uiJm9/Jaiswal-Steel-Industries?page-id=0%3A1&node-id=1-671&viewport=762%2C2026%2C0.17&scaling=min-zoom&starting-point-node-id=1%3A671">Catalogue</a> |
 | <a href="https://how-to-not-do-nimct.glitch.me">HTNDNIMCET</a> | <a href="https://discord.com/oauth2/authorize?client_id=920213432739967008&permissions=70282305&scope=bot">Noob Coders </a> | <a href="https://how-to-not-do-nimct.glitch.me">HTNDNIMCET</a> |
-<!-- 
+
+</p>
+  <!-- 
 - 🌐 Web Development
 
    <a href="https://soshubh.netlify.app/">Shubhanshu Singh</a>
