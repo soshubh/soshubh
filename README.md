@@ -104,7 +104,7 @@
 <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
 
 <p align="center"> 
-    <img src="https://github.com/soshubh/soshubh/blob/main/Assets/Tools.svg"/>
+    <img src="https://github.com/soshubh/soshubh/blob/main/Assets/tools1.svg"/>
 </p>
 
  <p align="center">
