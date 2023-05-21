@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/soshubh"> <img src="icon/shubhsvg1.svg"/> </a>
+  <a href="https://github.com/soshubh"> <img src="icon/shubhsvgani.svg"/> </a>
  </p>
 
 <!-- -------------------------------------------------------------------------------------------------------------------------------------- -->
