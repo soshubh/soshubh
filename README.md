@@ -16,7 +16,7 @@
 <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
 <!--<h2> A Developer [ WEB / APP / BOT ] </h2>-->
 <p align="center">
-   <img src="https://github.com/soshubh/soshubh/blob/main/Assets/About.svg"/>
+   <img src="https://github.com/soshubh/soshubh/blob/main/Assets/About1.svg"/>
 </p> 
  
 - 🎀 A student.
@@ -30,7 +30,7 @@
 
 <!-- ---------------------------------------------------------------------------------------- -->
 <p align="center"> 
-    <img src="https://github.com/soshubh/soshubh/blob/main/Assets/Development.svg"/>
+    <img src="https://github.com/soshubh/soshubh/blob/main/Assets/Development1.svg"/>
 </p>
 
 | ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 🌐 Web Development ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ | ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 🤖 Bot Development ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ | ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 🖼️ UI Design ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ |
@@ -60,7 +60,7 @@
  
 <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
 <p align="center"> 
-    <img src="https://github.com/soshubh/soshubh/blob/main/Assets/Skill.svg"/>
+    <img src="https://github.com/soshubh/soshubh/blob/main/Assets/Skill1.svg"/>
 </p>
 
 <p align="center">
@@ -124,7 +124,7 @@
 <!-- ----------------------------------------------------------------------------------------------------------------------------------------->
 
 <p align="center"> 
-    <img src="https://github.com/soshubh/soshubh/blob/main/Assets/Social.svg"/>
+    <img src="https://github.com/soshubh/soshubh/blob/main/Assets/Social1.svg"/>
 </p>
 
 <p align="center">
