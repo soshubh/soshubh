@@ -3,10 +3,9 @@
  </p>
 
 <!-- -------------------------------------------------------------------------------------------------------------------------------------- -->
-<p align="center">
-<!--     <img src="https://readme-typing-svg.herokuapp.com?color=F0F0F0&width=380&height=45&lines=A+Web+Developer;UI\UX+Designer&center=true"/> -->
-  <h3> Developer </h3>
-</p>
+<!-- <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?color=F0F0F0&width=380&height=45&lines=A+Web+Developer;UI\UX+Designer&center=true"/>
+</p> -->
 
 <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
 
