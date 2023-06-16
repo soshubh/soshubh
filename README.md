@@ -118,6 +118,7 @@
   <code><img height="40" src="icon/visual-basic.png"></code>
   <code><img height="40" src="icon/figma.png"></code>
   <code><img height="40" src="icon/mongodb.svg"></code>
+  <code><img height="40" src="icon/docker.svg"></code>
 <!--   <code><img height="45" src="icon/PngItem_312155.png"></code>  -->
  
 </p>
