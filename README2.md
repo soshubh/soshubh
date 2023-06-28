@@ -2,6 +2,12 @@
  <img src="temp/shubh1.svg"/>
  </p>
 
+
+
+
+<p align="center">
+   <img src="temp/About1.svg"/>
+</p> 
  
 - 🎀 A student.
 - ✨ Creating bugs since 2020.
