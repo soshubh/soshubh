@@ -3,7 +3,9 @@
  </p>
 
 
-
+<p align="center">
+   <img src="temp/Group10.svg"/>
+</p> 
 
 <p align="center">
    <img src="temp/About1.svg"/>
