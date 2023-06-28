@@ -1,5 +1,5 @@
 <p align="center">
- <img src="temp/shubhex.svg"/>
+ <img width="500px" src="temp/shubhex.svg"/>
  </p>
 
 
