@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" oncontextmenu="return false;">
  <img  width="800px" src="temp/shubh1.svg"/>
  </p>
 
@@ -9,15 +9,15 @@
   </a>
 </p> 
 
-<p align="center">
+<p align="center" oncontextmenu="return false;">
    <img  width="700px" src="temp/About1.svg"/>
 </p> 
 
-<p align="center">
+<p align="center" oncontextmenu="return false;">
    <img  width="600px" src="temp/Group11.svg"/>
 </p> 
 
-<p align="center">
+<p align="center" oncontextmenu="return false;">
    <img  width="700px" src="temp/Projects.svg"/>
 </p> 
  
