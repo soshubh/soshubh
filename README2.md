@@ -1,5 +1,5 @@
 <p align="center">
- <img  width="600px" src="temp/shubh1.svg"/>
+ <img  width="800px" src="temp/shubh1.svg"/>
  </p>
 
 
@@ -8,7 +8,7 @@
 </p> 
 
 <p align="center">
-   <img src="temp/About1.svg"/>
+   <img  width="700px" src="temp/About1.svg"/>
 </p> 
  
 - 🎀 A student.
