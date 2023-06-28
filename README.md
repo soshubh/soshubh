@@ -14,7 +14,7 @@
 </p> 
 
 <p align="center">
-   <img  width="500px" src="temp/Group11.svg"/>
+   <img  width="600px" src="temp/Group11.svg"/>
 </p> 
 
 
