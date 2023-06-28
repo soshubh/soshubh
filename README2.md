@@ -4,7 +4,7 @@
 
 
 <p align="center">
-   <img src="temp/Group10.svg"/>
+   <img width="600px"src="temp/Group10.svg"/>
 </p> 
 
 <p align="center">
