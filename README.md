@@ -18,18 +18,26 @@
 </p> 
 
 <p align="center" >
-  <img  width="600px" src="readme/about/Group 14.svg"/>
-  <img  width="600px" src="readme/about/Group 15.svg"/>
-  <a href="https://www.nitjsr.ac.in/">
+  <a href="https://github.com/soshubh">
+   <img  width="600px" src="readme/about/Group 14.svg"/>
+  </a>
+  <a href="https://github.com/soshubh">
+   <img  width="600px" src="readme/about/Group 15.svg"/>
+  </a>
+ 
+  <a target="_blank" href="https://www.nitjsr.ac.in/">
    <img  width="600px" src="readme/about/Group 16.svg"/>
   </a>
-  <a href="https://soshubh.github.io/#work">
+  <a target="_blank" href="https://soshubh.github.io/#work">
    <img  width="600px" src="readme/about/Group 17.svg"/>
   </a>
-  <a href="https://soshubh.github.io/#contact">
+  <a target="_blank" href="https://soshubh.github.io/#contact">
    <img  width="600px" src="readme/about/Group 18.svg"/>
   </a>
-  <img  width="600px" src="readme/about/Group 19.svg"/>
+
+  <a href="https://github.com/soshubh">
+   <img  width="600px" src="readme/about/Group 19.svg"/>
+  </a>
 </p> 
 
 <p align="center" >
