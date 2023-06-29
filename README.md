@@ -11,19 +11,17 @@
  </a>
 </p> 
 
-<p align="center" oncontextmenu="return false;">
+<p align="center" >
  <a href="https://github.com/soshubh">
   <img  width="700px" src="temp/About1.svg"/>
  </a>
 </p> 
 
-<p align="center" oncontextmenu="return false;">
- <a href="https://github.com/soshubh">
+<p align="center" >
   <img  width="600px" src="temp/Group11.svg"/>
- </a>
 </p> 
 
-<p align="center" oncontextmenu="return false;">
+<p align="center" >
  <a href="https://github.com/soshubh">
   <img  width="700px" src="temp/Projects.svg"/>
  </a>
