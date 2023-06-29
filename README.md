@@ -57,6 +57,12 @@
   <img  width="500px" src="readme/project/Group 20.svg"/>
  </a>
 </p> 
+ </p> 
+  <p align="center" >
+ <a href="https://github.com/soshubh">
+  <img  width="500px" src="readme/project/Portfolio.svg"/>
+ </a>
+</p> 
 
 <p align="center" >
  <a href="https://github.com/soshubh">
