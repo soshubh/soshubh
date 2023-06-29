@@ -54,7 +54,7 @@
 </p> 
   <p align="center" >
  <a href="https://github.com/soshubh">
-  <img  width="200px" src="readme/project/Group 20.svg"/>
+  <img  width="500px" src="readme/project/Group 20.svg"/>
  </a>
 </p> 
 
