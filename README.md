@@ -18,7 +18,12 @@
 </p> 
 
 <p align="center" >
-  <img  width="600px" src="temp/Group11.svg"/>
+  <img  width="600px" src="readme/about/Group 14.svg"/>
+  <img  width="600px" src="readme/about/Group 15.svg"/>
+  <img  width="600px" src="readme/about/Group 16.svg"/>
+  <img  width="600px" src="readme/about/Group 17.svg"/>
+  <img  width="600px" src="readme/about/Group 18.svg"/>
+  <img  width="600px" src="readme/about/Group 19.svg"/>
 </p> 
 
 <p align="center" >
