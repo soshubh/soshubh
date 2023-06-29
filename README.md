@@ -49,19 +49,19 @@
 
 <p align="center" >
  <a href="https://github.com/soshubh">
-  <img  width="250px" src="readme/project/Group.svg"/>
+  <img  width="200px" src="readme/project/Group.svg"/>
  </a>
 </p> 
 
 <p align="center" >
  <a href="https://github.com/soshubh">
-  <img  width="250px" src="readme/project/Group-1.svg"/>
+  <img  width="200px" src="readme/project/Group-1.svg"/>
  </a>
 </p> 
 
 <p align="center" >
  <a href="https://github.com/soshubh">
-  <img  width="250px" src="readme/project/Group-2.svg"/>
+  <img  width="200px" src="readme/project/Group-2.svg"/>
  </a>
 </p> 
  
