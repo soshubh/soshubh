@@ -49,7 +49,7 @@
 
 <p align="center" >
  <a href="https://github.com/soshubh">
-  <img  width="200px" src="readme/project/Group.svg"/>
+  <img  width="300px" src="readme/project/Group.svg"/>
  </a>
 </p> 
   <p align="center" >
