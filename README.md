@@ -45,4 +45,23 @@
   <img  width="700px" src="temp/Projects.svg"/>
  </a>
 </p> 
+
+
+<p align="center" >
+ <a href="https://github.com/soshubh">
+  <img  width="400px" src="readme/project/Group.svg"/>
+ </a>
+</p> 
+
+<p align="center" >
+ <a href="https://github.com/soshubh">
+  <img  width="400px" src="readme/project/Group-1.svg"/>
+ </a>
+</p> 
+
+<p align="center" >
+ <a href="https://github.com/soshubh">
+  <img  width="400px" src="readme/project/Group-2.svg"/>
+ </a>
+</p> 
  
