@@ -7,7 +7,7 @@
 
 <p align="center">
  <a href="https://drive.google.com/file/d/1fQe7Jhzs8drDowa36jyiBf68kT-68mIr/view?usp=sharing" target="_blank">
-  <img width="600px"src="temp/Group10.svg"/>
+  <img width="600px"src="temp/hishubh.svg"/>
  </a>
 </p> 
 
