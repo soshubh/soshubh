@@ -46,7 +46,7 @@
  <a href="https://github.com/soshubh">
   <img  width="700px" src="temp/Projects.svg"/>
  </a>
-</p> 
+
 
 
 
@@ -54,7 +54,6 @@
   <img  width="500px" src="readme/project/AnonymousBaatein.svg"/>
  </a>
 </p> 
- </p> 
 
  <a href="https://soshubh.netlify.app">
   <img  width="500px" src="readme/project/Shubhanshu.svg"/>
