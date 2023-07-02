@@ -46,12 +46,15 @@
  <a href="https://github.com/soshubh">
   <img  width="700px" src="temp/Projects.svg"/>
  </a>
+</p>
 
-
+<p align="center" >
  <a href="https://anonymousbaatein.netlify.app">
   <img  width="500px" src="readme/project/AnonymousBaatein.svg"/>
  </a>
+</p>
 
+<p align="center" >
  <a href="https://soshubh.netlify.app">
   <img  width="500px" src="readme/project/Shubhanshu.svg"/>
  </a>
@@ -59,7 +62,7 @@
 
 <p align="center" >
  <a href="https://github.com/soshubh">
-  <img  width="700px" src="skills/Skills.svg"/>
+  <img  width="700px" src="readme/skills/Skills.svg"/>
  </a>
 
  
@@ -67,14 +70,14 @@
 
 <p align="center" >
  <a href="https://github.com/soshubh">
-  <img  width="700px" src="tools/Tools.svg"/>
+  <img  width="700px" src="readme/tools/Tools.svg"/>
  </a>
 
  
 </p>
 <p align="center" >
  <a href="https://github.com/soshubh">
-  <img  width="700px" src="socials/Socials.svg"/>
+  <img  width="700px" src="readme/socials/Socials.svg"/>
  </a>
 
  
