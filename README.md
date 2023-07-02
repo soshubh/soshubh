@@ -50,13 +50,12 @@
 
 
 
-  <p align="center" >
  <a href="https://anonymousbaatein.netlify.app">
   <img  width="500px" src="readme/project/AnonymousBaatein.svg"/>
  </a>
 </p> 
  </p> 
-  <p align="center" >
+
  <a href="https://soshubh.netlify.app">
   <img  width="500px" src="readme/project/Shubhanshu.svg"/>
  </a>
