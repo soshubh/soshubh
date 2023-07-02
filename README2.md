@@ -205,7 +205,7 @@
 <p  align="center">
     <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
     <br/>
-    <img align="center" src="https://spotify-recently-played-readme.vercel.app/api?user=31fnlfx3ndl7cafn7blkisr7f4ua&count=5"/>
+    <img align="center" src="https://spotify-recently-played-readme.vercel.app/api?user=31ljrc3l6itpiluel7ftezjn564i&width=1000"/>
   
 </p>
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) -->
