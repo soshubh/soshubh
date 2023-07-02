@@ -73,14 +73,19 @@
   <img  width="700px" src="readme/tools/Tools.svg"/>
  </a>
 
- 
 </p>
+
 <p align="center" >
  <a href="https://github.com/soshubh">
   <img  width="700px" src="readme/socials/Socials.svg"/>
- </a>
+ </a> 
+</p>
 
- 
+
+<p align="center" >
+ <a href="https://github.com/soshubh">
+  <img  width="700px" src="readme/random/Spotify.svg"/>
+ </a> 
 </p>
 
  
