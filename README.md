@@ -88,4 +88,9 @@
  </a> 
 </p>
 
- 
+<p  align="center">
+    <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+    <br/>
+    <img align="center" src="https://spotify-recently-played-readme.vercel.app/api?user=31ljrc3l6itpiluel7ftezjn564i&width=600"/>
+  
+</p>
