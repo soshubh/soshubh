@@ -66,7 +66,7 @@
  </a>
   <p align="center" >
    <a href="https://github.com/soshubh">
-    <img  width="500px" src="readme/skills/SkillChart.svg"/>
+    <img  width="600px" src="readme/skills/SkillChart.svg"/>
    </a> 
   </p>
 
