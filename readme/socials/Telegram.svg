@@ -2,7 +2,7 @@
     <defs>
  <style>
   .l{
-    animation: l 2s linear infinite;
+    animation: l 4s linear infinite;
   }
     @keyframes l{
         0%{
