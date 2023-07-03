@@ -64,6 +64,11 @@
  <a href="https://github.com/soshubh">
   <img  width="700px" src="readme/skills/Skills.svg"/>
  </a>
+  <p align="center" >
+   <a href="https://github.com/soshubh">
+    <img  width="700px" src="readme/skills/SkillChart.svg"/>
+   </a> 
+  </p>
 
  
 </p>
