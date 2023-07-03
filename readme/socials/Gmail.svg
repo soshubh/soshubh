@@ -1,5 +1,29 @@
 <svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g filter="url(#filter0_d_283_37)">
+
+  <defs>
+ <style>
+  .l{
+    animation: l 4s linear infinite;
+  }
+    @keyframes l{
+        0%{
+        transform: translate(0,0);
+        }
+        40%{
+        transform: translate(0,-10px);
+        }
+        
+        60%{
+        transform: translate(0,10px);
+        }
+        100%{
+        transform: translate(0,0);
+        }
+    }
+ </style>
+</defs>
+  
+<g class="l" filter="url(#filter0_d_283_37)">
 <path d="M83.1818 115H116.818C118.575 115 120 113.575 120 111.818V88.1818C120 86.4245 118.575 85 116.818 85H83.1818C81.4245 85 80 86.4245 80 88.1818V111.818C80 113.575 81.4245 115 83.1818 115Z" fill="#E0E0E0"/>
 <path d="M101.818 115H116.818C118.575 115 120 113.575 120 111.818V88.1818C120 86.4245 118.575 85 116.818 85H83.1818C81.4245 85 80 86.4245 80 88.1818L101.818 115Z" fill="#D9D9D9"/>
 <path d="M84.3135 115H116.818C118.575 115 120 113.576 120 111.818V88.6367L84.3135 115Z" fill="#EEEEEE"/>
