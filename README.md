@@ -77,14 +77,47 @@
  <a href="https://github.com/soshubh">
   <img  width="700px" src="readme/tools/Tools.svg"/>
  </a>
-
 </p>
 
 <p align="center" >
  <a href="https://github.com/soshubh">
-  <img  width="700px" src="readme/socials/Socials.svg"/>
+  <img  width="700px" src="readme/socials/linkedin.svg"/>
  </a> 
 </p>
+<p align="center" >
+ <a href="https://github.com/soshubh">
+  <img  width="700px" src="readme/socials/Gmail.svg"/>
+ </a> 
+ 
+ <a href="https://github.com/soshubh">
+  <img  width="700px" src="readme/socials/Whatsapp.svg"/>
+ </a> 
+ 
+ <a href="https://github.com/soshubh">
+  <img  width="700px" src="readme/socials/Snapchat.svg"/>
+ </a> 
+ 
+ <a href="https://github.com/soshubh">
+  <img  width="700px" src="readme/socials/Telegram.svg"/>
+ </a>
+ 
+ <a href="https://github.com/soshubh">
+  <img  width="700px" src="readme/socials/Github.svg"/>
+ </a> 
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <p align="center" >
