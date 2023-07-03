@@ -137,4 +137,4 @@
   
 </p>
 
-<p align="center"><img width="550px" src="https://github.com/soshubh/soshubh/blob/output/github-contribution-grid-snake.svg"/> </p>
+<p align="center"><img width="530px" src="https://github.com/soshubh/soshubh/blob/output/github-contribution-grid-snake.svg"/> </p>
