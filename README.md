@@ -79,6 +79,13 @@
  </a>
 </p>
 
+
+<p align="center" >
+ <a href="https://github.com/soshubh">
+  <img  width="700px" src="readme/socials/Socials.svg"/>
+ </a>
+</p>
+
 <p align="center" >
 
  <a href="https://github.com/soshubh">
