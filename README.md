@@ -92,6 +92,8 @@
  <a href="https://github.com/soshubh">
   <img  width="150px" src="readme/socials/Whatsapp.svg"/>
  </a> 
+
+ <br/>
  
  <a href="https://github.com/soshubh">
   <img  width="150px" src="readme/socials/Snapchat.svg"/>
