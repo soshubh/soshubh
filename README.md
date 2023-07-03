@@ -83,7 +83,7 @@
  <a href="https://github.com/soshubh">
   <img  width="150px" src="readme/socials/linkedin.svg"/>
  </a> 
-</p>
+
 <p align="center" >
  <a href="https://github.com/soshubh">
   <img  width="150px" src="readme/socials/Gmail.svg"/>
