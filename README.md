@@ -74,6 +74,21 @@
 </p>
 
 
+<p align="center" >
+ <a href="https://github.com/soshubh">
+  <img  width="700px" src="readme/tools/Tools.svg"/>
+ </a> 
+</p>
+<p align="center" >
+ <a href="https://github.com/soshubh">
+  <img  width="700px" src="readme/tools/AllTool.svg"/>
+ </a> 
+</p>
+
+
+
+
+
 
 <p align="center" >
  <a href="https://github.com/soshubh">
