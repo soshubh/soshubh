@@ -81,7 +81,7 @@
 </p>
 <p align="center" >
  <a href="https://github.com/soshubh">
-  <img  width="700px" src="readme/tools/AllTool.svg"/>
+  <img  width="500px" src="readme/tools/AllTool.svg"/>
  </a> 
 </p>
 
