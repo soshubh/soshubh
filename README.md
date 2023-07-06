@@ -153,3 +153,6 @@
 </p>
 
 <p align="center"><img width="525px" src="https://github.com/soshubh/soshubh/blob/output/github-contribution-grid-snake.svg"/> </p>
+
+
+<p align="right"><img width="200px" src="readme/dis.png"/> </p>
