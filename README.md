@@ -152,7 +152,7 @@
   
 </p>
 
-<p align="center"><img width="525px" src="https://github.com/soshubh/soshubh/blob/output/github-contribution-grid-snake.svg"/> </p>
+<!--- <p a/lign="center"><img width="525px" src="https://github.com/soshubh/soshubh/blob/output/github-contribution-grid-snake.svg"/> </p> -->
 
 
 <p align="right">
