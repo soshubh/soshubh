@@ -98,25 +98,25 @@
 
 <p align="center" >
 
- <a  width="150px" href="https://github.com/soshubh">
+ <a  width="150px" href="https://www.linkedin.com/in/shubhanshu-singh-b552511b7">
   <img  width="100px" src="readme/socials/linkedin.svg"/>
  </a> 
 
- <a  width="150px" href="https://github.com/soshubh">
+ <a  width="150px" href="https://mail.google.com/mail/u/0/?shubhanshu=workforshubhsingh@gmail.com">
   <img  width="100px" src="readme/socials/Gmail.svg"/>
  </a> 
  
- <a width="150px" href="https://github.com/soshubh">
+ <a width="150px" href="https://api.whatsapp.com/send/?phone=919140386605&text=Hey%21+Shubh+I+got+your+number+from+website.&app_absent=0">
   <img  width="100px" src="readme/socials/Whatsapp.svg"/>
  </a> 
 
  <br/>
  
- <a width="150px" href="https://github.com/soshubh">
+ <a width="150px" href="https://www.instagram.com/so_shubh/">
   <img  width="100px" src="readme/socials/Snapchat.svg"/>
  </a> 
  
- <a width="150px" href="https://github.com/soshubh">
+ <a width="150px" href="https://t.me/soshubh">
   <img  width="100px" src="readme/socials/Telegram.svg"/>
  </a>
  
