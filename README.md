@@ -99,29 +99,29 @@
 <p align="center" >
 
  <a  width="150px" href="https://github.com/soshubh">
-  <img  width="80px" src="readme/socials/linkedin.svg"/>
+  <img  width="100px" src="readme/socials/linkedin.svg"/>
  </a> 
 
  <a  width="150px" href="https://github.com/soshubh">
-  <img  width="80px" src="readme/socials/Gmail.svg"/>
+  <img  width="100px" src="readme/socials/Gmail.svg"/>
  </a> 
  
  <a width="150px" href="https://github.com/soshubh">
-  <img  width="80px" src="readme/socials/Whatsapp.svg"/>
+  <img  width="100px" src="readme/socials/Whatsapp.svg"/>
  </a> 
 
  <br/>
  
  <a width="150px" href="https://github.com/soshubh">
-  <img  width="80px" src="readme/socials/Snapchat.svg"/>
+  <img  width="100px" src="readme/socials/Snapchat.svg"/>
  </a> 
  
  <a width="150px" href="https://github.com/soshubh">
-  <img  width="80px" src="readme/socials/Telegram.svg"/>
+  <img  width="100px" src="readme/socials/Telegram.svg"/>
  </a>
  
  <a width="150px" href="https://github.com/soshubh">
-  <img  width="80px" src="readme/socials/Github.svg"/>
+  <img  width="100px" src="readme/socials/Github.svg"/>
  </a> 
 </p>
 
