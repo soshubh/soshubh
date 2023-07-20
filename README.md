@@ -116,7 +116,7 @@
   <img  width="100px" src="readme/socials/Snapchat.svg"/>
  </a> 
  
- <a width="150px" href="https://t.me/soshubh">
+ <a width="150px" href="https://t.me/SOSHUBH">
   <img  width="100px" src="readme/socials/Telegram.svg"/>
  </a>
  
