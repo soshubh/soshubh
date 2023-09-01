@@ -1,3 +1,12 @@
+<p align="right">
+ <a href="https://github.com/settings/appearance">
+  <img width="350px" src="readme/dis.png"/>
+ </a> 
+</p>
+
+
+
+
 <p align="center">
  <a href="https://github.com/soshubh">
   <img  width="800px" src="temp/shubh1.svg"/>
@@ -155,8 +164,4 @@
 <!--- <p a/lign="center"><img width="525px" src="https://github.com/soshubh/soshubh/blob/output/github-contribution-grid-snake.svg"/> </p> -->
 
 
-<p align="right">
- <a href="https://github.com/settings/appearance">
-  <img width="350px" src="readme/dis.png"/>
- </a> 
-</p>
+
