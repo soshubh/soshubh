@@ -157,7 +157,7 @@
 <p  align="center">
     <img width="500px" align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
     <br/>
-    <img width="500px"  align="center" src="https://spotify-recently-played-readme.vercel.app/api?user=31ljrc3l6itpiluel7ftezjn564i&width=600"/>
+  <!--- <img width="500px"  align="center" src="https://spotify-recently-played-readme.vercel.app/api?user=31ljrc3l6itpiluel7ftezjn564i&width=600"/> -->
   
 </p>
 
